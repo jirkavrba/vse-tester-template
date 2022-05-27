@@ -1,0 +1,918 @@
+[
+    {
+        "text": "1) Jak co nejúspěšněji uspokojit stakeholdery?",
+        "answers": [
+            {
+                "text": "Soustředit se na všechny stakeholdery a plánovat pomocí managementu očekávání",
+                "correct": true
+            },
+            {
+                "text": "Soustředit se na stakeholdery spojené s trhem či co",
+                "correct": false
+            },
+            {
+                "text": "Soustředit se na podstatné stakeholdery a splnit jejich očekávání",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "2) Apple má _______ diverzifikaci. Nabízí ________ výběr různých produktů.",
+        "answers": [
+            {
+                "text": "nulovou/neobsáhlý",
+                "correct": false
+            },
+            {
+                "text": "vyšší/obsáhlý",
+                "correct": true
+            },
+            {
+                "text": "nižší/neobsáhlý",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "3) Jaké je správně pořadí dílčích analýz v rámci komplexní strategické analýzy firmy?",
+        "answers": [
+            {
+                "text": "5 sil, PESTEL, Analýza Stakeholderů, SWOT, VRIO",
+                "correct": false
+            },
+            {
+                "text": "Analýza stakeholderů, PESTEL, VRIO, SWOT, 5 sil",
+                "correct": false
+            },
+            {
+                "text": "Analýza stakeholderů, PESTEL, 5 sil, VRIO, SWOT",
+                "correct": true
+            },
+            {
+                "text": "SWOT, PESTEL, 5 sil, Analýza stakeholderů, VRIO",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "4) Jestliže plán strategické analýzy obsahuje níže uvedené nástroje, jaká zásadní otázka nebude zodpovězena? Analýza stakeholderů – analýza konkurence – analýza vnějšího okolí – analýza pětisil – analýza konkurenčního životního cyklu",
+        "answers": [
+            {
+                "text": "Co jsou silné a slabě stránky společnosti",
+                "correct": true
+            },
+            {
+                "text": "Jsou schopnosti firmy sladěny s její kýženou pozicí na trhu?",
+                "correct": false
+            },
+            {
+                "text": "Co od společnosti očekávají druzí?",
+                "correct": false
+            },
+            {
+                "text": "Kdo jsou hráči na trhu?",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "5) Jak může stratég nejlépe identifikovat klíčové nejistoty při plánování scénářů?",
+        "answers": [
+            {
+                "text": "Soustředí se na více i méně podstatné faktory, které ovlivní společnost.",
+                "correct": false
+            },
+            {
+                "text": "Primárně zvažuje dopad jednotlivých trendů napříč scénáři.",
+                "correct": false
+            },
+            {
+                "text": "Vyhne se posuzování, zdali jsou či nejsou nejistoty nejdůležitější či nejvíce nejisté.",
+                "correct": false
+            },
+            {
+                "text": "Z vypozorovaných trendů určíme nespočet nejistot, u kterých posuzujeme jejich důležitost a úroveň nejistoty.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "6) Začal/a jste pracovat ve společnosti a dostal/a jste k dispozici původní plán strategické analýzy svého předchůdce. Které z následujících částí byste opravil/a či vyřadil/a?",
+        "answers": [
+            {
+                "text": "Úzké zaměření analýzy na určitou funkční oblast v rámci společnosti.",
+                "correct": true
+            },
+            {
+                "text": "Věnovat patřičný čas výzkumu vycházejícímu z analýz a dat.",
+                "correct": false
+            },
+            {
+                "text": "Analyzovat externí prostředí společnosti prostřednictvím analýzy konkurence.",
+                "correct": false
+            },
+            {
+                "text": "Použít širokou škálu nástrojů pro analýzu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "7) V portfoliové matici BCG byste relativní podíl produktu firmy XY na trhu ČR počítali jako:",
+        "answers": [
+            {
+                "text": "Podíl produktu firmy XY na trhu dělený tržním podílem obdobného výrobku u největšího konkurenta firmy XY v ČR.",
+                "correct": true
+            },
+            {
+                "text": "Podíl produktu firmy XY na trhu dělený tržním podílem obdobného výrobku nejmenšího konkurenta firmy XY v ČR.",
+                "correct": false
+            },
+            {
+                "text": "Podíl produktu firmy XY na trhu dělený tržním podílem obdobného výrobku u průměrného konkurenta firmy XY v ČR.",
+                "correct": false
+            },
+            {
+                "text": "Podíl tržeb produktu dané firmy XY na celkových tržbách za obdobné produkty všech konkurentů v ČR.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "8) Dlouhodobým a nejdůležitějším cílem firmy je:",
+        "answers": [
+            {
+                "text": "Vytvářet zisk.",
+                "correct": false
+            },
+            {
+                "text": "Zajistit růst svých tržeb.",
+                "correct": false
+            },
+            {
+                "text": "Vytvářet hodnotu pro stakeholdery.",
+                "correct": true
+            },
+            {
+                "text": "Rozšiřovat svůj tržní podíl.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "9) Autodesk Inc. je americkou společnosti vyvíjející grafické softwary typu CAD určené pro profesionální grafiky a designéry. Jedná se o velmi sofistikované programové nástroje, čemuž také odpovídá jejich prémiová cena. Tato strategie může být popsána jako:",
+        "answers": [
+            {
+                "text": "Zaostření na nízké náklady a úzké portfolio",
+                "correct": false
+            },
+            {
+                "text": "Zaostření na vyšší náklady a úzké portfolio",
+                "correct": true
+            },
+            {
+                "text": "Diferenciace",
+                "correct": false
+            },
+            {
+                "text": "Zaostření",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "10) Typické charakteristiky konsolidovaného odvětví jsou:",
+        "answers": [
+            {
+                "text": "Malý počet firem, velké vstupní bariéry",
+                "correct": true
+            },
+            {
+                "text": "Malý počet firem, malé vstupní bariéry",
+                "correct": false
+            },
+            {
+                "text": "Velký počet malých podniků",
+                "correct": false
+            },
+            {
+                "text": "Existence trhu jednoho produktu v rámci odvětví",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "11) Mezi tržní globalizační tlaky, které podporují globalizaci, patří???????:",
+        "answers": [
+            {
+                "text": "Globální úspory z rozsahu",
+                "correct": false
+            },
+            {
+                "text": "Sjednocování potřeb zákazníků",
+                "correct": true
+            },
+            {
+                "text": "Konvergence technických standardů",
+                "correct": false
+            },
+            {
+                "text": "Liberalizace mezinárodního obchodu a hospodářské politiky",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "12) Co by mělo být obecným celkovým cílem stratéga při použití SWOT analýzy?",
+        "answers": [
+            {
+                "text": "Ohodnotit schopnosti společnosti.",
+                "correct": false
+            },
+            {
+                "text": "Určit, jak konkurovat na více trzích.",
+                "correct": false
+            },
+            {
+                "text": "Pochopit a charakterizovat konkurenční prostředí společnosti.",
+                "correct": false
+            },
+            {
+                "text": "Identifikovat příležitosti a hrozby.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "13) O kterou z níže uvedených bariér vstupu do odvětví by se měly firmy primárně snažit?",
+        "answers": [
+            {
+                "text": "usilovat o vytvoření vysokých vstupních investičních nákladů.",
+                "correct": false
+            },
+            {
+                "text": "vytvořit si dlouhodobý vzájemně výhodný vztah se svými zákazníky.",
+                "correct": true
+            },
+            {
+                "text": "monopolizovat trh.",
+                "correct": false
+            },
+            {
+                "text": "vytvořit legislativní bariéru vstupu nových firem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "14) Zábavní průmysl je odvětví:",
+        "answers": [
+            {
+                "text": "Křížově-cyklické",
+                "correct": false
+            },
+            {
+                "text": "Neutrální (potraviny, léky)",
+                "correct": false
+            },
+            {
+                "text": "Anti-cyklické",
+                "correct": true
+            },
+            {
+                "text": "Cyklické (automobilový průmysl)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "15) Vyberte správné tvrzení, které se týká Porterova hodnototvorného řetězce:",
+        "answers": [
+            {
+                "text": "Činnosti v Porterově hodnototvorném řetězci se člení výrobní a obstaravatelské.",
+                "correct": false
+            },
+            {
+                "text": "Hodnototvorný řetězec podniků ve stejném odvětví se neliší.",
+                "correct": false
+            },
+            {
+                "text": "Hodnototvorné činnosti jsou fyzicky a technologicky odlišné činnosti, kterými podnik vytváří výrobek nebo poskytuje službu, a které mají pro zákazníka hodnotu.",
+                "correct": true
+            },
+            {
+                "text": "Činnosti se člení na primární a podpůrné, protože primární činnosti jsou důležitější a přinášejí vyšší hodnotu a marži než činnosti podpůrné.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "16) Princip ,,strategických hodin\" je založen na kombinaci:",
+        "answers": [
+            {
+                "text": "konkurenční výhody a konkurenčního rozsahu.",
+                "correct": false
+            },
+            {
+                "text": "zákazníkem vnímané hodnoty a ceny.",
+                "correct": true
+            },
+            {
+                "text": "nákladů a počtu segmentů trhu.",
+                "correct": false
+            },
+            {
+                "text": "zákazníkem vnímané hodnoty a tržního podílu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "17) Chytré náramky a hodinky (např. Fitbit, Jawbone, Garmin..) jsou relativně novým fenoménem a mnoho společností začíná s jejich výrobou. V jaké fázi se nachází toto odvětví?",
+        "answers": [
+            {
+                "text": "Fáze zralosti",
+                "correct": false
+            },
+            {
+                "text": "Fáze růstu",
+                "correct": true
+            },
+            {
+                "text": "Zaváděcí fáze",
+                "correct": false
+            },
+            {
+                "text": "Disrupce",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "18) Jak může být dosažena hodnotná konkurenční pozice?",
+        "answers": [
+            {
+                "text": "Zákazníci odstanou to, co si přejí.",
+                "correct": false
+            },
+            {
+                "text": "Společnost má jasnou vizi a hodnoty.",
+                "correct": false
+            },
+            {
+                "text": "Hodnoty společnosti, tržní příležitosti a schopnosti firmy jsou ve vzájemném souladu.",
+                "correct": true
+            },
+            {
+                "text": "Strategie společnosti umožňuje maximalizaci zisku",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "19) Jak by mohla společnost co nejúspěšněji vytvořit hodnotu pro své stakeholdery?",
+        "answers": [
+            {
+                "text": "Soustředěním se na stakeholdery, kteří jsou přímo spojeni s příležitostmi na trhu.",
+                "correct": false
+            },
+            {
+                "text": "Zlepšit spokojenost zákazníků a poté hledat jiné příležitosti k vytváření hodnoty.",
+                "correct": false
+            },
+            {
+                "text": "Sladit zájmy stakeholderů pomocí managementu jejich očekávání.",
+                "correct": true
+            },
+            {
+                "text": "Vytvořit hodnotu pro všechny stakeholdery.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "20) Jste zodpovědný za strategické řízení společnosti. Která z následujících možností popisuje plán, který by s největší pravděpodobností vedl k úspěšnému strategickému řízení společnosti?",
+        "answers": [
+            {
+                "text": "Zaměřit se zejména na strategickou analýzu, neboť formulace a implementace strategie ovlivní celkové strategické řízení s daleko menší pravděpodobností.",
+                "correct": false
+            },
+            {
+                "text": "Požádat vedení společnosti, aby stanovilo jeden nejdůležitější prvek strategického řízení a prioritizovat pouze tento aspekt.",
+                "correct": false
+            },
+            {
+                "text": "Doporučit pravidelně se opakující plán, který zahrnuje analýzu, formulaci a implementaci.",
+                "correct": true
+            },
+            {
+                "text": "Navrhnout takový sled analýzy, formulace a implementace strategie, aby se tyto jednotlivé kroky nepřekrývaly a byly vykonány jednotlivě ve schváleném čase.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "21) Která z následujících interpretací nejlépe vystihuje výplatní matici?",
+        "answers": [
+            {
+                "text": "Jestliže jedna společnost sníží cenu, měla by ji snížit i druhá společnost.",
+                "correct": true
+            },
+            {
+                "text": "V daném scénáři neexistuje dominantní strategie.",
+                "correct": false
+            },
+            {
+                "text": "Společnost A by neměla snižovat cenu.",
+                "correct": false
+            },
+            {
+                "text": "Jestliže společnost B sníží ceny a společnost A nikoliv, společnost B přijde o svůj tržní podíl a sníží se poptávka po jejich výrobcích.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "22) VRIO analýza analyzuje vnitřní zdroje a schopnosti společnosti z pohledu jejich:",
+        "answers": [
+            {
+                "text": "Hodnoty, vzácnosti, nezávislosti a příležitostí, které přinášejí.",
+                "correct": false
+            },
+            {
+                "text": "Hodnoty, vzácnosti, integrity a organizačního využití.",
+                "correct": false
+            },
+            {
+                "text": "Hodnoty, vzácnosti, nenapodobitelnosti a schopnosti společnosti je využít.",
+                "correct": true
+            },
+            {
+                "text": "Životnosti, vzácnosti, nenapodobitelnosti, organizační výkonnosti.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "23) Vysokou ziskovost v odvětví lze očekávat, pokud:",
+        "answers": [
+            {
+                "text": "Dodavatelé vyhrožují integrací vpřed",
+                "correct": false
+            },
+            {
+                "text": "Výrobci substitutů jsou ziskoví a agresivní",
+                "correct": false
+            },
+            {
+                "text": "Vstup do odvětví vyžaduje vlastnictví know-how a je obtížný",
+                "correct": true
+            },
+            {
+                "text": "Je využívána společná technologie a využívají se specializovaná aktiva",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "24) Odvětví ve fázi zralosti se vyznačuje:",
+        "answers": [
+            {
+                "text": "Nízkou tržní sílou kupujících",
+                "correct": false
+            },
+            {
+                "text": "Vysokou tržní sílou kupujících",
+                "correct": true
+            },
+            {
+                "text": "Snahou soupeřících firem o vytvoření tržního standardu",
+                "correct": false
+            },
+            {
+                "text": "Nízkými bariérami pro vstup do odvětví",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "25) Výrobce sportovní obuvi přijde s novým designem boty se zabudovaných čipem, který sleduje uběhlou vzdálenost a rychlost. Jak by měl reagovat konkurenční výrobce sportovní obuvi?",
+        "answers": [
+            {
+                "text": "Zkoumat reakce zákazníků a podle toho reagovat.",
+                "correct": true
+            },
+            {
+                "text": "Uvědomit si, že tato radikálně nová technologie dává konkurentovi natolik silnou konkurenční výhodu, ačkoliv jeho pozice na trhu je silná, trh přesto musí opustit.",
+                "correct": false
+            },
+            {
+                "text": "Změnit svůj sortiment obuvi a okamžitě novou technologii rovněž začlenit.",
+                "correct": false
+            },
+            {
+                "text": "Hrát hru „počkejme a uvidíme“ s vědomím, že máme relativně spoustu času, neboť bude trvat, než si zákazníci osvojí novou technologii.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "26) Cenový šampióni spoléhají na efekt úspor z rozsahu, což znamená vyrábět...",
+        "answers": [
+            {
+                "text": "Vyrábět co nejlevněji je to možné.",
+                "correct": false
+            },
+            {
+                "text": "Co největší množství produkce, aby byly celkové náklady co nejnižší.",
+                "correct": false
+            },
+            {
+                "text": "Takové množství produkce, kdy firma dosahuje minimálních průměrných nákladů na jednotku produkce.",
+                "correct": true
+            },
+            {
+                "text": "Co možná nejvíce výrobků stejného typu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "27) Který z následujících aspektů je nejdůležitější v rámci řízení stakeholderů?",
+        "answers": [
+            {
+                "text": "Sladění hodnot uznávaných společností, tržních příležitostí a schopností společnosti.",
+                "correct": false
+            },
+            {
+                "text": "Strategicky a selektivně zvažovat dopad jednotlivých rozhodnutí společnosti na stakeholdery.",
+                "correct": true
+            },
+            {
+                "text": "Standardizace hodnot stakeholderů.",
+                "correct": false
+            },
+            {
+                "text": "Prioritizace vytváření hodnoty na základě důležitosti jednotlivých stakeholderů.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "28) Co je substitutem Burger Kingu?",
+        "answers": [
+            {
+                "text": "McDonalds",
+                "correct": false
+            },
+            {
+                "text": "Vaření doma",
+                "correct": true
+            },
+            {
+                "text": "KFC",
+                "correct": false
+            },
+            {
+                "text": "Prodejce s párkama v rohlíku",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "29) Mezi sekundární stakeholdery patří:",
+        "answers": [
+            {
+                "text": "Média",
+                "correct": true
+            },
+            {
+                "text": "Konkurenti",
+                "correct": false
+            },
+            {
+                "text": "Drobní akcionáři",
+                "correct": false
+            },
+            {
+                "text": "Dodavatelé energie",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "30) Vyjednávací síla zákazníka je vysoká, pokud:",
+        "answers": [
+            {
+                "text": "Máme velký počet zákazníků se spíše menšími objemy zakázek, význam námi prodávaného produktu je pro zákazníka malý, přechodové náklady zákazníka jsou nízké.",
+                "correct": false
+            },
+            {
+                "text": "Máme spíše menší počet zákazníků a jejich objemy zakázek jsou velké, u zákazníka existuje reálná možnost zpětné integrace, zákazník je o trhu dobře informován.",
+                "correct": true
+            },
+            {
+                "text": "Informovanost zákazníka o trhu je spíše nízká, nakupovaný produkt je pro zákazníka …., zákazník nemá reálnou možnost zpětné integrace.",
+                "correct": false
+            },
+            {
+                "text": "Prodáváme diferencované produkty, přechodové náklady zákazníka jsou vysoké.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "31) Jako podnět pro tvorbu variant strategie (používají):",
+        "answers": [
+            {
+                "text": "Cíle podniku",
+                "correct": false
+            },
+            {
+                "text": "Strategická analýza",
+                "correct": false
+            },
+            {
+                "text": "SWOT analýza",
+                "correct": false
+            },
+            {
+                "text": "Scénáře",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "32) Opel prodává 7 modelů, průměrná cena 735 a objem prodaných aut je 4500, Renault prodává 7 modelů, průměrná cena 796 a objem prodaných aut je 4250, Fiat prodává 8 modelů, průměrná cena 688 a objem prodaných aut je 3600, Volkswagen prodává 7 modelů, průměrná cena 1800 a objem prodaných aut je 3200, Citroen prodává 7 modelů, průměrná cena 659 a objem prodaných aut je 5003. Která značka nepatří do konkurenční složky se značkou Renault:",
+        "answers": [
+            {
+                "text": "Opel",
+                "correct": false
+            },
+            {
+                "text": "Citroen",
+                "correct": false
+            },
+            {
+                "text": "Volkswagen",
+                "correct": true
+            },
+            {
+                "text": "Fiat",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "33) McDonald’s se obvykle pokouší lákat nové zákazníky dočasnou nabídkou odlišných produktů v rámci „Řeckých, Italských, Amerických týdnů, ...“ Přestože toto jídlo může vypadat více exoticky a tím naplňovat jakési zákaznické potřeby, společnost se stále snaží těžit ze svých hlavních kompetencí, kterými jsou především kvalitní služby ve sféře rychlého občerstvení. O který typ strategie se jedná?",
+        "answers": [
+            {
+                "text": "Reflektivní.",
+                "correct": false
+            },
+            {
+                "text": "Kreativní.",
+                "correct": false
+            },
+            {
+                "text": "Outside-in (tržní přístup).",
+                "correct": true
+            },
+            {
+                "text": "Inside-out (zdrojový přístup).",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "34) Co z následujících nenáleží mezi bariéry vstupu do odvětví:",
+        "answers": [
+            {
+                "text": "Očekávaná odveta ze strany konkurentů",
+                "correct": false
+            },
+            {
+                "text": "Oligopol",
+                "correct": false
+            },
+            {
+                "text": "Vysoké ziskové marže",
+                "correct": true
+            },
+            {
+                "text": "Vysoké výstupní náklady z odvětví",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "35) Na rozdíl od Porterova modelu pěti sil, kde se na zákazníka do jisté míry pohlíží „konkurenčním“ pojledem a analyzuje se, jaká je jejich vyjednávací  síla a jakým způsobem ji omezit, Delta model směřuje k vytvoření vztahu se zákazníkem a nevidí je jako „konkurenci“. Silného pouta mezi společnosti a zákazníkem lze dosáhnout kombinací následujícího:",
+        "answers": [
+            {
+                "text": "Cheapest product, celková integrace zákazníka, proprietární standard",
+                "correct": false
+            },
+            {
+                "text": "Systém lock-in, komplexní řešení pro zákazníka, best product",
+                "correct": true
+            },
+            {
+                "text": "Systémové propojení, nejatraktivnější produkt, celkové potěšení zákazníka",
+                "correct": false
+            },
+            {
+                "text": "Total customer satisfaction, nejlepší poměr cena/výkon, systémová integrace",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "36) Porterova analýza pěti sil se využívá k:",
+        "answers": [
+            {
+                "text": "Identifikaci hnacích sil konkurenční výhody společnosti",
+                "correct": false
+            },
+            {
+                "text": "Identifikaci budoucích kroků konkurentů v odvětví",
+                "correct": false
+            },
+            {
+                "text": "Hodnocení intensity konkurence v odvětví a tedy jeho atraktivity z pohledu ziskovosti",
+                "correct": true
+            },
+            {
+                "text": "Identifikaci jednotlivých primárních stakeholderů c daném odvětví a odkrytí jejich očekáváních",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "37) Společnost Nestle by v rámci klasifikace jednotlivých skupin stakeholderů ráda zařadila skupinu zákazníků kupujících jejich populární cereálie Nesquik. Dokteré skupiny by je pravděpodobně zařadila?",
+        "answers": [
+            {
+                "text": "B – udržuj informované",
+                "correct": true
+            },
+            {
+                "text": "C – udržuj spokojené",
+                "correct": false
+            },
+            {
+                "text": "A – minimální pozornost",
+                "correct": false
+            },
+            {
+                "text": "D – klíčoví hráči",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "38) Pro snížení konkurenčního pnutí v odvětví je typický výhodné:",
+        "answers": [
+            {
+                "text": "menší počet konkurentů, vysoká diferenciace produktů, vyšší míra růstu trhu",
+                "correct": true
+            },
+            {
+                "text": "menší počet konkurentů, vysoká míra růstu trhu, nízká diferenciace produktů",
+                "correct": false
+            },
+            {
+                "text": "velký počet různorodých konkurentů, nízká míra růstu trhu, velká diferenciace produktů",
+                "correct": false
+            },
+            {
+                "text": "menší počet konkurentů, vysoké fixní náklady, vysoká diferenciace produktů",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "39) Úkolem stratéga je vytvořit hodnotu. Jak můžeme z tohoto pohledu stratég ohodnotit potenciální příležitost k růstu?",
+        "answers": [
+            {
+                "text": "Stratég může společnosti pomoci identifikovat příležitosti",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "40) Proč stratégové analyzují životní cyklus odvětví",
+        "answers": [
+            {
+                "text": "Aby porozuměli a učili se ze vzorců vývoje typických pro jednotlivé fáze životního cyklu",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "41) Co z následujícího není dobrým příkladem faktoru SWOT analýzy",
+        "answers": [
+            {
+                "text": "Můžeme vstoupit na další dva zahraniční trhy, abychom zvýšili naše tržby",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "42) Společnost IKEA v rámci Porterových generických strategií uplatňuje?",
+        "answers": [
+            {
+                "text": "strategie cenového lídra se zaměřením na úzký zákaznický segment",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "45) Porterova analýza 5sil se využívá k",
+        "answers": [
+            {
+                "text": "Hodnocení intensity konkurence v odvětví a tedy jeho atraktivity z pohledu ziskovosti",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "46) Společnost Ferrero prodává oblíbenou nutellu, do které skupiny by zařadila svoje zákazníky?",
+        "answers": [
+            {
+                "text": "udržuj informované",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "47) Společnost Ferrero a palmový olej v jejích výrobcích patří do jakého distribučního konfliktu",
+        "answers": [
+            {
+                "text": "negativní externality",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "48) ROS",
+        "answers": [
+            {
+                "text": "EAT/celkové tržby",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "49) Vztah mezi scénáři v matici",
+        "answers": [
+            {
+                "text": "scénáře v jednotlivých kvadrantech vy se měli vzájemně vylučovat",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "50) VW a podvádění s deklarací CO2 je příklad distribučního konfliktu",
+        "answers": [
+            {
+                "text": "asymetrie informací",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "51) Špatně provedená segmentace může být díky",
+        "answers": [
+            {
+                "text": "segmentu vnitřně heterogenní",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "52) CCQ je špatně formulovaná z tohoto důvodu  Proč jsme nedávno byli svědky odlivu našich VIP klientů",
+        "answers": [
+            {
+                "text": "otázka nesměřuje do budoucnosti",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "53) ROE",
+        "answers": [
+            {
+                "text": "čistý zisk/vlastní kapitál",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "54) V portfóliové matici BCG byste relativní podíl produktu firmy XY na trhu ČR počítali jako",
+        "answers": [
+            {
+                "text": "tržby produktu / celkové tržby všech konkurentů",
+                "correct": true
+            }
+        ]
+    }
+]

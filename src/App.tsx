@@ -1,9 +1,9 @@
 import Tester from './components/Tester';
-import questions from "./questions.json";
+import questions from "./sets/3sg201-strategicka-analyza.json";
 
 function App() {
   return (
-    <Tester title="4ST204 - Statistika pro informatiky" questions={questions}/>
+    <Tester title="3SG201 - Strategická analýzae+" questions={questions}/>
   );
 }
 
