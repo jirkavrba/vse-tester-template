@@ -28,7 +28,7 @@ const QuestionsOverview: FC<QuestionsOverviewProps> = ({questions, current, onSe
                 <div className="text-gray-300 mx-3">=</div>
                 <div className="text-gray-500">{percentage}%</div>
             </div>
-            <div className="flex flex-row content-center justify-center flex-wrap w-1/2">
+            <div className="flex flex-row content-center justify-center flex-wrap w-full md:w-1/2">
                 {sorted.map(question => (
                     <QuestionSquare key={question.position} onClick={() => onSelect(question.position)} question={question} highlight={question.position === current}/>
                 ))} 
