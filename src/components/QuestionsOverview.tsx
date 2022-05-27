@@ -14,6 +14,11 @@ const QuestionsOverview: FC<QuestionsOverviewProps> = ({questions, current, onSe
     const incorrect = questions.filter(q => q.state === QuestionState.Incorrect).length;
     const percentage = Math.floor(correct / Math.max(incorrect + correct, 1) * 100 * 10) / 10;
 
+    const reset = () => {
+        window.localStorage.removeItem("questions");
+        window.location.reload();
+    };
+
     return (
         <div className="flex flex-col items-center">
             <div className="flex flex-row items-center justify-center mb-5 text-xl font-black">
@@ -28,6 +33,7 @@ const QuestionsOverview: FC<QuestionsOverviewProps> = ({questions, current, onSe
                     <QuestionSquare key={question.position} onClick={() => onSelect(question.position)} question={question} highlight={question.position === current}/>
                 ))} 
             </div>
+            <button onClick={reset} className="text-xs uppercase font-black tracking-widest mt-3 transition text-gray-400 hover:text-gray-900">Reset</button>
         </div>
     );
 }

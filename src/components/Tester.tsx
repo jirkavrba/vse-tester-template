@@ -34,10 +34,20 @@ const Tester: FC<TesterProps> = ({title, questions: source}: TesterProps) => {
     const [positions, setPositions] = useState<Array<number>>([]);
     const [index, setIndex] = useState<number>(Math.floor(Math.random() * source.length));
 
+    const persistQuestions = (questions: Array<DisplayQuestion>) => {
+        window.localStorage.setItem("questions", JSON.stringify(questions))
+        setQuestions(questions);
+    };
+
     useEffect(() => {
-        // Assign each questions a position and an answer state
-        setQuestions(source.map((q, i) => ({...q, state: QuestionState.Unanswered, position: i})));
-        setPositions(new Array(source.length).fill(0).map((_, i) => i).sort((a, b) => 0.5 - Math.random()));
+        // Assign each questions a position and an answer state (and store this in localstorage preferably)
+        const stored = window.localStorage.getItem("questions");
+        const questions = stored !== null 
+            ? JSON.parse(stored)
+            : source.map((q, i) => ({...q, state: QuestionState.Unanswered, position: i}))
+
+        setQuestions(questions);
+        setPositions(new Array(source.length).fill(0).map((_, i) => i).sort(() => 0.5 - Math.random()));
 
         // Update page title
         document.title = title;
@@ -53,6 +63,7 @@ const Tester: FC<TesterProps> = ({title, questions: source}: TesterProps) => {
             const updated = {...question, state: state}
 
             copy.splice(positions[index], 1, updated);
+            persistQuestions(copy);
 
             return copy;
         });
