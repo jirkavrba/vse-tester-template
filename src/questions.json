@@ -278,7 +278,7 @@
         "text": "20. Ve sloupcovém grafu vyčteme četnost z:",
         "answers": [
             {
-                "text": "-šířky sloupce",
+                "text": "šířky sloupce",
                 "correct": false
             },
             {
@@ -321,7 +321,7 @@
         "text": "23. Rozptyl dvou záporných čísel je:",
         "answers": [
             {
-                "text": "-0",
+                "text": "0",
                 "correct": false
             },
             {
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "text": "41. Měříme spotřebu auta na 100 km/h, co znamená F(8)- F(6)?",
+        "text": "41. Měříme spotřebu auta na 100 km/h, co znamená F(8) - F(6)?",
         "answers": [
             {
                 "text": "Pravděpodobnost, že průměrná spotřeba na 100 km/h bude v intervalu 6 až 8.",
@@ -783,7 +783,7 @@
                 "correct": true
             },
             {
-                "text": "-Širší interval spolehlivosti",
+                "text": "Širší interval spolehlivosti",
                 "correct": false
             },
             {
@@ -817,7 +817,7 @@
                 "correct": false
             },
             {
-                "text": "-širší interval spolehlivosti",
+                "text": "širší interval spolehlivosti",
                 "correct": false
             }
         ]
@@ -2271,15 +2271,15 @@
         "text": "154. V pěti prodejnách určitého zboží prodejního řetězce došlo ke změně tržby oproti předcházejícímu období v % následovně: 15, -3, 11, 8, -11. Která z hodnot hodnotového indexu ze všech 5 prodejen není možná?",
         "answers": [
             {
-                "text": "-1,04",
+                "text": "1,04",
                 "correct": false
             },
             {
-                "text": "-1,11",
+                "text": "1,11",
                 "correct": false
             },
             {
-                "text": "+0,88",
+                "text": "0,88",
                 "correct": true
             }
         ]
@@ -2536,15 +2536,15 @@
         "text": "171. Při indexní analýze pro index 1,2; 1,42; 1,36; 1,48 nemůže výsledek být.",
         "answers": [
             {
-                "text": "-1,25",
+                "text": "1,25",
                 "correct": false
             },
             {
-                "text": "+1,52",
+                "text": "1,52",
                 "correct": true
             },
             {
-                "text": "-1,35",
+                "text": "1,35",
                 "correct": false
             }
         ]
@@ -2664,15 +2664,15 @@
         "text": "179. Pro distribuční funkci F(x) platí:",
         "answers": [
             {
-                "text": "-0<F(x)<1",
+                "text": "0<F(x)<1",
                 "correct": false
             },
             {
-                "text": "+0<=F(x)<=1",
+                "text": "0<=F(x)<=1",
                 "correct": true
             },
             {
-                "text": "--1<F(x)<1",
+                "text": "-1<F(x)<1",
                 "correct": false
             }
         ]
@@ -2848,11 +2848,11 @@
                 "correct": false
             },
             {
-                "text": "-90% interval je širší než 95% interval",
+                "text": "90% interval je širší než 95% interval",
                 "correct": false
             },
             {
-                "text": "+90% interval je užší než 95% interval",
+                "text": "90% interval je užší než 95% interval",
                 "correct": true
             }
         ]

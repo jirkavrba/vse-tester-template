@@ -52,7 +52,7 @@ const QuestionSquare: FC<QuestionSquareProps> = ({question, highlight, onClick}:
     }
 
     return (
-        <button onClick={onClick} className={`w-4 h-4 border-2 m-1 transition hover:bg-gray-400 ${highlight && question.state === QuestionState.Unanswered ? 'border-gray-400 !bg-white' : 'border-white'} rounded ${classes[question.state]}`}> 
+        <button onClick={onClick} title={question.text} className={`w-4 h-4 border-2 m-1 transition hover:bg-gray-400 ${highlight && question.state === QuestionState.Unanswered ? 'border-gray-400 !bg-white' : 'border-white'} rounded ${classes[question.state]}`}> 
         </button>
     );
 }
