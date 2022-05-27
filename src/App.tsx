@@ -1,12 +1,11 @@
 import React from 'react';
+import Tester, { Question } from './Tester';
+import questions from "./questions.json";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>4st204 statistika pro informatiky</h1>
-      </header>
-    </div>
+    // Todo: Fix this ugly (as unknown) typecast
+    <Tester title="4ST204 - Statistika pro informatiky" questions={(questions as unknown) as Array<Question>}/>
   );
 }
 
