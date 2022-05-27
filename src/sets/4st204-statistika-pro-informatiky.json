@@ -1,6 +1,6 @@
 [
     {
-        "text": "1. Použití harmonického průměru je vhodné, pokud chceme spočítat průměrnou rychlost.",
+        "text": "Použití harmonického průměru je vhodné, pokud chceme spočítat průměrnou rychlost.",
         "answers": [
             {
                 "text": "Ano",
@@ -13,7 +13,7 @@
         ]
     },
     {
-        "text": "2. Rozptyl vzájemně různých záporných čísel je:",
+        "text": "Rozptyl vzájemně různých záporných čísel je:",
         "answers": [
             {
                 "text": "roven 0",
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "text": "3. Pokud při výpočtu váženého aritmetického průměru vynásobíme četnosti konstantou, také průměr se vynásobí touto konstantou.",
+        "text": "Pokud při výpočtu váženého aritmetického průměru vynásobíme četnosti konstantou, také průměr se vynásobí touto konstantou.",
         "answers": [
             {
                 "text": "Ano",
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "text": "4. Násobíme-li všechny četnosti při výpočtu váženého arit. průměru konstantou, průměr se rovněž násobí touto konstantou.",
+        "text": "Násobíme-li všechny četnosti při výpočtu váženého arit. průměru konstantou, průměr se rovněž násobí touto konstantou.",
         "answers": [
             {
                 "text": "Ano",
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "text": "5. Když změníme řadu čísel o konstantu, medián se nezmění.",
+        "text": "Když změníme řadu čísel o konstantu, medián se nezmění.",
         "answers": [
             {
                 "text": "Ano",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "text": "6. Harmonický průměr má smysl použít ve všech situacích jako průměr aritmetický",
+        "text": "Harmonický průměr má smysl použít ve všech situacích jako průměr aritmetický",
         "answers": [
             {
                 "text": "Pravda",
@@ -82,7 +82,7 @@
         ]
     },
     {
-        "text": "7. Přičteme-li ke všem hodnotám znaku konstantu, jejich rozptyl se nezmění:",
+        "text": "Přičteme-li ke všem hodnotám znaku konstantu, jejich rozptyl se nezmění:",
         "answers": [
             {
                 "text": "Ano",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "text": "8. Pokud vynásobíme váhy ve váženém aritmetickém průměru konstantou, průměr se nezmění.",
+        "text": "Pokud vynásobíme váhy ve váženém aritmetickém průměru konstantou, průměr se nezmění.",
         "answers": [
             {
                 "text": "Ano",
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "text": "9. Medián souboru:",
+        "text": "Medián souboru:",
         "answers": [
             {
                 "text": "Je vždy nezáporný",
@@ -125,7 +125,7 @@
         ]
     },
     {
-        "text": "10. směrodatná odchylka náhodné veličiny může být 0.",
+        "text": "směrodatná odchylka náhodné veličiny může být 0.",
         "answers": [
             {
                 "text": "Ano",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "text": "11. modus:",
+        "text": "modus:",
         "answers": [
             {
                 "text": "je 25% kvantil",
@@ -155,7 +155,7 @@
         ]
     },
     {
-        "text": "12. Jestliže každou hodnotu stat. souboru zvýšíme o 10%, variační koeficient všech hodnot se:",
+        "text": "Jestliže každou hodnotu stat. souboru zvýšíme o 10%, variační koeficient všech hodnot se:",
         "answers": [
             {
                 "text": "nezmění se",
@@ -172,7 +172,7 @@
         ]
     },
     {
-        "text": "13. Rozptyl je:",
+        "text": "Rozptyl je:",
         "answers": [
             {
                 "text": "součet čtvercových odchylek hodnot proměnné od jejího průměru",
@@ -189,7 +189,7 @@
         ]
     },
     {
-        "text": "14. Z 30 hodnot byl vypočten arit. průměr 15 a nalezen medián 13,9. Dvě jednotky však byly opomenuty a je potřeba je dodatečně zařadit do souboru. Hodnoty sledované proměnné jsou u nich 10 a 36. Opravené výsledky budou:",
+        "text": "Z 30 hodnot byl vypočten arit. průměr 15 a nalezen medián 13,9. Dvě jednotky však byly opomenuty a je potřeba je dodatečně zařadit do souboru. Hodnoty sledované proměnné jsou u nich 10 a 36. Opravené výsledky budou:",
         "answers": [
             {
                 "text": "průměr = 15,5, medián = 13,9",
@@ -206,7 +206,7 @@
         ]
     },
     {
-        "text": "15. Pokud vynásobím váhy ve váženém aritmetickém průměru konstantou, průměr se nezmění.",
+        "text": "Pokud vynásobím váhy ve váženém aritmetickém průměru konstantou, průměr se nezmění.",
         "answers": [
             {
                 "text": "Ano",
@@ -219,7 +219,7 @@
         ]
     },
     {
-        "text": "16. Pokud ke každé hodnotě pozorování připočteme konstantu, medián se nezmění.",
+        "text": "Pokud ke každé hodnotě pozorování připočteme konstantu, medián se nezmění.",
         "answers": [
             {
                 "text": "Ano",
@@ -232,7 +232,7 @@
         ]
     },
     {
-        "text": "17. Ve výsečovém diagramu vyjadřuje velikost úhlu každé výseče:",
+        "text": "Ve výsečovém diagramu vyjadřuje velikost úhlu každé výseče:",
         "answers": [
             {
                 "text": "průměrnou hodnotu veličiny",
@@ -249,7 +249,7 @@
         ]
     },
     {
-        "text": "18. Směrodatná odchylka může být záporná",
+        "text": "Směrodatná odchylka může být záporná",
         "answers": [
             {
                 "text": "Ano",
@@ -262,7 +262,7 @@
         ]
     },
     {
-        "text": "19. Směrodatná odchylka konstanty je rovna nule:",
+        "text": "Směrodatná odchylka konstanty je rovna nule:",
         "answers": [
             {
                 "text": "Pravda",
@@ -275,7 +275,7 @@
         ]
     },
     {
-        "text": "20. Ve sloupcovém grafu vyčteme četnost z:",
+        "text": "Ve sloupcovém grafu vyčteme četnost z:",
         "answers": [
             {
                 "text": "šířky sloupce",
@@ -292,7 +292,7 @@
         ]
     },
     {
-        "text": "21. Chci kvíz 100% dokončit a nemít případnou možnost otázky opakovat bez správných odpovědí?",
+        "text": "Chci kvíz 100% dokončit a nemít případnou možnost otázky opakovat bez správných odpovědí?",
         "answers": [
             {
                 "text": "Ano",
@@ -305,7 +305,7 @@
         ]
     },
     {
-        "text": "22. Odlehlé hodnoty náhodné veličiny vedou k přesnějšímu průměru.",
+        "text": "Odlehlé hodnoty náhodné veličiny vedou k přesnějšímu průměru.",
         "answers": [
             {
                 "text": "Ano",
@@ -318,7 +318,7 @@
         ]
     },
     {
-        "text": "23. Rozptyl dvou záporných čísel je:",
+        "text": "Rozptyl dvou záporných čísel je:",
         "answers": [
             {
                 "text": "0",
@@ -335,7 +335,7 @@
         ]
     },
     {
-        "text": "24. Proměnná obor studia je:",
+        "text": "Proměnná obor studia je:",
         "answers": [
             {
                 "text": "kvantitativní",
@@ -352,7 +352,7 @@
         ]
     },
     {
-        "text": "25. Ve výsečovém grafu podíl plochy určité výseče na celkové ploše vyjadřuje:",
+        "text": "Ve výsečovém grafu podíl plochy určité výseče na celkové ploše vyjadřuje:",
         "answers": [
             {
                 "text": "průměrnou hodnotu určité proměnné",
@@ -369,7 +369,7 @@
         ]
     },
     {
-        "text": "26. Průměrný koeficient růstu se vypočítá jako:",
+        "text": "Průměrný koeficient růstu se vypočítá jako:",
         "answers": [
             {
                 "text": "aritmetický průměr",
@@ -386,7 +386,7 @@
         ]
     },
     {
-        "text": "27. Medián mezd mužů i medián mezd žen je 23 tis. Kč, takže medián mezd mužů a žen dohromady je též 23 tis. Kč?",
+        "text": "Medián mezd mužů i medián mezd žen je 23 tis. Kč, takže medián mezd mužů a žen dohromady je též 23 tis. Kč?",
         "answers": [
             {
                 "text": "Pravda",
@@ -399,7 +399,7 @@
         ]
     },
     {
-        "text": "28. Čím znázorníme rozdělení četností hodnot spojité veličiny:",
+        "text": "Čím znázorníme rozdělení četností hodnot spojité veličiny:",
         "answers": [
             {
                 "text": "sloupcový graf",
@@ -416,7 +416,7 @@
         ]
     },
     {
-        "text": "29. Co je vhodným bodovým odhadem relativní četnosti určité obměny statistického znaku v základním souboru:",
+        "text": "Co je vhodným bodovým odhadem relativní četnosti určité obměny statistického znaku v základním souboru:",
         "answers": [
             {
                 "text": "počet výskytů této obměny ve výběrovém souboru",
@@ -433,7 +433,7 @@
         ]
     },
     {
-        "text": "30. Medián mezd žen je 20, medián mezd mužů je 20, potom celkový medián je taky 20?",
+        "text": "Medián mezd žen je 20, medián mezd mužů je 20, potom celkový medián je taky 20?",
         "answers": [
             {
                 "text": "Ano",
@@ -446,7 +446,7 @@
         ]
     },
     {
-        "text": "31. Variační koeficient musí být číslo od nuly do jedné.",
+        "text": "Variační koeficient musí být číslo od nuly do jedné.",
         "answers": [
             {
                 "text": "Ano",
@@ -459,7 +459,7 @@
         ]
     },
     {
-        "text": "32. Distribuční funkci spojité náhodné veličiny lze získat integrací hustoty pravděpodobnosti této veličiny.",
+        "text": "Distribuční funkci spojité náhodné veličiny lze získat integrací hustoty pravděpodobnosti této veličiny.",
         "answers": [
             {
                 "text": "Ano",
@@ -472,7 +472,7 @@
         ]
     },
     {
-        "text": "33. Statistická definice pravděpodobnosti je založena na velkém množství nezávislých opakování téhož náhodného pokusu",
+        "text": "Statistická definice pravděpodobnosti je založena na velkém množství nezávislých opakování téhož náhodného pokusu",
         "answers": [
             {
                 "text": "Ano",
@@ -485,7 +485,7 @@
         ]
     },
     {
-        "text": "34. Jen jedna z následujících pravděpodobnostních funkcí je správná pro hodnoty 1,2,3.",
+        "text": "Jen jedna z následujících pravděpodobnostních funkcí je správná pro hodnoty 1,2,3.",
         "answers": [
             {
                 "text": "P(1)=0,2; P(2)=0,4; P(3)=0,4",
@@ -502,7 +502,7 @@
         ]
     },
     {
-        "text": "35. Pokud jeden jev má pravděpodobnost 0,5 a druhý 0,2 a jejich sjednocení má hodnotu 0,7, pak jsou tyto jevy:",
+        "text": "Pokud jeden jev má pravděpodobnost 0,5 a druhý 0,2 a jejich sjednocení má hodnotu 0,7, pak jsou tyto jevy:",
         "answers": [
             {
                 "text": "Nezávislé",
@@ -519,7 +519,7 @@
         ]
     },
     {
-        "text": "36. Pravděpodobnost jednoho jevu je 0,3 a druhého 0,5. Pravděpodobnost jejich současného nastoupení je 0,2. Potom platí:",
+        "text": "Pravděpodobnost jednoho jevu je 0,3 a druhého 0,5. Pravděpodobnost jejich současného nastoupení je 0,2. Potom platí:",
         "answers": [
             {
                 "text": "Jevy jsou závislé",
@@ -536,7 +536,7 @@
         ]
     },
     {
-        "text": "37. Uvažujeme konečný soubor N výrobků, z nichž je M zmetků. Náhodně z tohoto souboru vybereme (bez vracení) n výrobků. Náhodná veličina X představující počet zmetků mezi vybranými výrobky má rozdělení:",
+        "text": "Uvažujeme konečný soubor N výrobků, z nichž je M zmetků. Náhodně z tohoto souboru vybereme (bez vracení) n výrobků. Náhodná veličina X představující počet zmetků mezi vybranými výrobky má rozdělení:",
         "answers": [
             {
                 "text": "binomické rozdělení",
@@ -553,7 +553,7 @@
         ]
     },
     {
-        "text": "38. Střední hodnota binomického rozdělení libovolných (smysluplných) parametrů je kladné číslo:",
+        "text": "Střední hodnota binomického rozdělení libovolných (smysluplných) parametrů je kladné číslo:",
         "answers": [
             {
                 "text": "Ano",
@@ -566,7 +566,7 @@
         ]
     },
     {
-        "text": "39. U symetrického rozdělení je střední hodnota vždy rovna mediánu.",
+        "text": "U symetrického rozdělení je střední hodnota vždy rovna mediánu.",
         "answers": [
             {
                 "text": "Ano",
@@ -579,7 +579,7 @@
         ]
     },
     {
-        "text": "40. Při zvyšujících se pokusech se binomické rozdělení blíží normálnímu",
+        "text": "Při zvyšujících se pokusech se binomické rozdělení blíží normálnímu",
         "answers": [
             {
                 "text": "Ano",
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "text": "41. Měříme spotřebu auta na 100 km/h, co znamená F(8) - F(6)?",
+        "text": "Měříme spotřebu auta na 100 km/h, co znamená F(8) - F(6)?",
         "answers": [
             {
                 "text": "Pravděpodobnost, že průměrná spotřeba na 100 km/h bude v intervalu 6 až 8.",
@@ -609,7 +609,7 @@
         ]
     },
     {
-        "text": "42. Pro dva neslučitelné jevy s pravděpodobnostmi 0,5 a 0,2 je pravděpodobnost jejich sjednocení rovna 0,7",
+        "text": "Pro dva neslučitelné jevy s pravděpodobnostmi 0,5 a 0,2 je pravděpodobnost jejich sjednocení rovna 0,7",
         "answers": [
             {
                 "text": "Ano",
@@ -622,7 +622,7 @@
         ]
     },
     {
-        "text": "43. Je možné, aby se u symetrického rozdělení neshodoval průměr s mediánem?",
+        "text": "Je možné, aby se u symetrického rozdělení neshodoval průměr s mediánem?",
         "answers": [
             {
                 "text": "Není to možné",
@@ -639,7 +639,7 @@
         ]
     },
     {
-        "text": "44. Binomické rozdělení lze za jistých okolností aproximovat normálním rozdělením.",
+        "text": "Binomické rozdělení lze za jistých okolností aproximovat normálním rozdělením.",
         "answers": [
             {
                 "text": "Ano",
@@ -652,7 +652,7 @@
         ]
     },
     {
-        "text": "45. Pro normální rozdělení platí:",
+        "text": "Pro normální rozdělení platí:",
         "answers": [
             {
                 "text": "Střední hodnota a medián se nerovnají",
@@ -669,7 +669,7 @@
         ]
     },
     {
-        "text": "46. U normálního rozdělení je střední hodnota nula a rozptyl 1.",
+        "text": "U normálního rozdělení je střední hodnota nula a rozptyl 1.",
         "answers": [
             {
                 "text": "Ano",
@@ -682,7 +682,7 @@
         ]
     },
     {
-        "text": "47. Distribuční funkce náhodné veličiny",
+        "text": "Distribuční funkce náhodné veličiny",
         "answers": [
             {
                 "text": "Může nabývat libovolných hodnot z intervalu",
@@ -699,7 +699,7 @@
         ]
     },
     {
-        "text": "48. f(x) hustota pravděpodobnosti vyjadřuje pravděpodobnost, že náhodná veličina nabude hodnoty x.",
+        "text": "f(x) hustota pravděpodobnosti vyjadřuje pravděpodobnost, že náhodná veličina nabude hodnoty x.",
         "answers": [
             {
                 "text": "Ano",
@@ -712,7 +712,7 @@
         ]
     },
     {
-        "text": "49. Hustota pravděpodobnosti je:",
+        "text": "Hustota pravděpodobnosti je:",
         "answers": [
             {
                 "text": "Funkce popisující pravděpodobnostní rozdělení nespojité náhodné veličiny",
@@ -729,7 +729,7 @@
         ]
     },
     {
-        "text": "50. Binomické rozdělení využijeme u nespojitých veličin.",
+        "text": "Binomické rozdělení využijeme u nespojitých veličin.",
         "answers": [
             {
                 "text": "Ano",
@@ -742,7 +742,7 @@
         ]
     },
     {
-        "text": "51. Pravděpodobnost sjednocení dvou slučitelných jevů je definována jako:",
+        "text": "Pravděpodobnost sjednocení dvou slučitelných jevů je definována jako:",
         "answers": [
             {
                 "text": "součet pravděpodobností obou jevů",
@@ -759,7 +759,7 @@
         ]
     },
     {
-        "text": "52. Testujeme hypotézu na 1% hl. významnosti. Byla určena minimální hladina významnosti. Ve kterém případě nul. hypotézu zamítáme?",
+        "text": "Testujeme hypotézu na 1% hl. významnosti. Byla určena minimální hladina významnosti. Ve kterém případě nul. hypotézu zamítáme?",
         "answers": [
             {
                 "text": "P=0,12",
@@ -776,7 +776,7 @@
         ]
     },
     {
-        "text": "53. Oboustranný interval spolehlivosti pro pravděpodobnost koupě nového výrobku z n=150(nebo 50) pozorování. Pokud zůstanou všechny vstupní údaje nezměněné budeme provádět na základě vyššího rozsahu výběru n´=400(nebo 150), dostaneme:",
+        "text": "Oboustranný interval spolehlivosti pro pravděpodobnost koupě nového výrobku z n=150(nebo 50) pozorování. Pokud zůstanou všechny vstupní údaje nezměněné budeme provádět na základě vyššího rozsahu výběru n´=400(nebo 150), dostaneme:",
         "answers": [
             {
                 "text": "Užší interval spolehlivosti",
@@ -793,7 +793,7 @@
         ]
     },
     {
-        "text": "54. Pravděpodobnost chyby 1. druhu je větší než pravděpodobnost chyby 2.druhu.",
+        "text": "Pravděpodobnost chyby 1. druhu je větší než pravděpodobnost chyby 2.druhu.",
         "answers": [
             {
                 "text": "Ano",
@@ -806,7 +806,7 @@
         ]
     },
     {
-        "text": "55. Oboustranný interval spolehlivosti pro podíl zákazníků, kteří si koupí nový výrobek, byl sestrojen z n1 = 150 pozorování. Pokud zůstanou všechny vstupní údaje výpočtu neměnné, pouze výpočet budeme provádět na základě vyššího rozsahu výběru n2 = 400, dostaneme:",
+        "text": "Oboustranný interval spolehlivosti pro podíl zákazníků, kteří si koupí nový výrobek, byl sestrojen z n1 = 150 pozorování. Pokud zůstanou všechny vstupní údaje výpočtu neměnné, pouze výpočet budeme provádět na základě vyššího rozsahu výběru n2 = 400, dostaneme:",
         "answers": [
             {
                 "text": "užší interval spolehlivosti",
@@ -823,7 +823,7 @@
         ]
     },
     {
-        "text": "57. Zvětšením spolehlivosti se při stejném rozsahu výběru přesnost intervalového odhadu střední hodnoty normálního rozdělení:",
+        "text": "Zvětšením spolehlivosti se při stejném rozsahu výběru přesnost intervalového odhadu střední hodnoty normálního rozdělení:",
         "answers": [
             {
                 "text": "zmenší",
@@ -840,7 +840,7 @@
         ]
     },
     {
-        "text": "58. Pokud snížíme hodnotu hladiny významnosti testu z 0,05 na 0,01, pak se velikost kritického oboru zmenší.",
+        "text": "Pokud snížíme hodnotu hladiny významnosti testu z 0,05 na 0,01, pak se velikost kritického oboru zmenší.",
         "answers": [
             {
                 "text": "Ano",
@@ -853,7 +853,7 @@
         ]
     },
     {
-        "text": "59. Testové kritérium vyčteme v tabulkách a proměnnou vypočtenou z testového kritéria musíme dopočítat.",
+        "text": "Testové kritérium vyčteme v tabulkách a proměnnou vypočtenou z testového kritéria musíme dopočítat.",
         "answers": [
             {
                 "text": "Ano",
@@ -866,7 +866,7 @@
         ]
     },
     {
-        "text": "60. Hladina významnosti statistické hypotézy je:",
+        "text": "Hladina významnosti statistické hypotézy je:",
         "answers": [
             {
                 "text": "to samé co p-hodnota",
@@ -883,7 +883,7 @@
         ]
     },
     {
-        "text": "61. Jak snížíme pravděpodobnost chyby 2. Stupně:",
+        "text": "Jak snížíme pravděpodobnost chyby 2. Stupně:",
         "answers": [
             {
                 "text": "Snížením hladiny významnosti a zvětšením vzorku",
@@ -900,7 +900,7 @@
         ]
     },
     {
-        "text": "62. p-hodnota 0,03. Zamítáme na hladině významnosti 0,01 i 0,05.",
+        "text": "p-hodnota 0,03. Zamítáme na hladině významnosti 0,01 i 0,05.",
         "answers": [
             {
                 "text": "Ano",
@@ -913,7 +913,7 @@
         ]
     },
     {
-        "text": "63. Když se změní u testování alfa z 5% na 1%, tak se kritický obor:",
+        "text": "Když se změní u testování alfa z 5% na 1%, tak se kritický obor:",
         "answers": [
             {
                 "text": "nezmění",
@@ -930,7 +930,7 @@
         ]
     },
     {
-        "text": "64. Vyjde-li nám hodnota testového kritéria p=0,045, pak:",
+        "text": "Vyjde-li nám hodnota testového kritéria p=0,045, pak:",
         "answers": [
             {
                 "text": "zamítáme hypotézu o nezávislosti na 1% i 5% hl. významnosti.",
@@ -947,7 +947,7 @@
         ]
     },
     {
-        "text": "65. Pokud zamítáme H0 oboustranným testem, potom u jednoho z jednostranných testů při stejné hladině významnosti zamítáme hypotézu:",
+        "text": "Pokud zamítáme H0 oboustranným testem, potom u jednoho z jednostranných testů při stejné hladině významnosti zamítáme hypotézu:",
         "answers": [
             {
                 "text": "vždy",
@@ -964,7 +964,7 @@
         ]
     },
     {
-        "text": "66. Skupina dobrovolníků se zúčastnila programu na snižování tělesné hmotnosti. Byly zjištěny hodnoty jejich hmotnosti v kilogramech před a po dokončení programu. Pro posouzení, zda program skutečně způsobil (v průměru) pokles tělesné hmotnosti účastníků, použijete",
+        "text": "Skupina dobrovolníků se zúčastnila programu na snižování tělesné hmotnosti. Byly zjištěny hodnoty jejich hmotnosti v kilogramech před a po dokončení programu. Pro posouzení, zda program skutečně způsobil (v průměru) pokles tělesné hmotnosti účastníků, použijete",
         "answers": [
             {
                 "text": "test o nulové hodnotě kor. koeficientu",
@@ -981,7 +981,7 @@
         ]
     },
     {
-        "text": "67. Hodnota mediánu studentova rozdělení je vždy:",
+        "text": "Hodnota mediánu studentova rozdělení je vždy:",
         "answers": [
             {
                 "text": "rovna nule",
@@ -998,7 +998,7 @@
         ]
     },
     {
-        "text": "68. Co znamená při testování hypotézy 1-beta.",
+        "text": "Co znamená při testování hypotézy 1-beta.",
         "answers": [
             {
                 "text": "chyba I. druhu",
@@ -1015,7 +1015,7 @@
         ]
     },
     {
-        "text": "69. Pokud nemáme směrodatnou odchylku základního souboru, nemůžeme použít směrodatnou odchylku výběrového souboru.",
+        "text": "Pokud nemáme směrodatnou odchylku základního souboru, nemůžeme použít směrodatnou odchylku výběrového souboru.",
         "answers": [
             {
                 "text": "Ano",
@@ -1028,7 +1028,7 @@
         ]
     },
     {
-        "text": "70. Pokud máme kvantil u (0,7), dokážeme z něj spočítat kvantil u (0,3).",
+        "text": "Pokud máme kvantil u (0,7), dokážeme z něj spočítat kvantil u (0,3).",
         "answers": [
             {
                 "text": "Ano",
@@ -1041,7 +1041,7 @@
         ]
     },
     {
-        "text": "71. Velká variabilita hodnot X snižuje přesnost odhadu jejich průměru.",
+        "text": "Velká variabilita hodnot X snižuje přesnost odhadu jejich průměru.",
         "answers": [
             {
                 "text": "Ano",
@@ -1054,7 +1054,7 @@
         ]
     },
     {
-        "text": "72. Výběrový průměr je nezkresleným průměrem základního souboru",
+        "text": "Výběrový průměr je nezkresleným průměrem základního souboru",
         "answers": [
             {
                 "text": "Ano",
@@ -1067,7 +1067,7 @@
         ]
     },
     {
-        "text": "73. Přesnost intervalového odhadu je nepřímo úměrná šířce intervalu spolehlivosti.",
+        "text": "Přesnost intervalového odhadu je nepřímo úměrná šířce intervalu spolehlivosti.",
         "answers": [
             {
                 "text": "Ano",
@@ -1080,7 +1080,7 @@
         ]
     },
     {
-        "text": "74. Spolehlivost odhadu značíme jako 1-alfa",
+        "text": "Spolehlivost odhadu značíme jako 1-alfa",
         "answers": [
             {
                 "text": "Ano",
@@ -1093,7 +1093,7 @@
         ]
     },
     {
-        "text": "75. Na základě náhodného výběru máme rozhodnout, zda podíl kuřáků v populaci přesahuje určité procento. Je-li jich ve vzorku o rozsahu 1000 zjištěno 300, potřebujeme znát:",
+        "text": "Na základě náhodného výběru máme rozhodnout, zda podíl kuřáků v populaci přesahuje určité procento. Je-li jich ve vzorku o rozsahu 1000 zjištěno 300, potřebujeme znát:",
         "answers": [
             {
                 "text": "rozsah populace",
@@ -1110,7 +1110,7 @@
         ]
     },
     {
-        "text": "76. Obsahem nul. hypotézy u kor. analýzy je:",
+        "text": "Obsahem nul. hypotézy u kor. analýzy je:",
         "answers": [
             {
                 "text": "závislost dvou kvant. znaků",
@@ -1127,7 +1127,7 @@
         ]
     },
     {
-        "text": "77. Podmínkou pro využití chí-kvadrátu je dostatečné obsazení ve všech skupinách",
+        "text": "Podmínkou pro využití chí-kvadrátu je dostatečné obsazení ve všech skupinách",
         "answers": [
             {
                 "text": "Ano",
@@ -1140,7 +1140,7 @@
         ]
     },
     {
-        "text": "78. Pomocí hodnoty reg. koeficientu posuzujeme:",
+        "text": "Pomocí hodnoty reg. koeficientu posuzujeme:",
         "answers": [
             {
                 "text": "změnu vysvětlované proměnné odpovídající jednotkové změně vysvětlující proměnné",
@@ -1157,7 +1157,7 @@
         ]
     },
     {
-        "text": "79. Pearsonův koef. kontingence při velmi těsné závislosti proměnných dosahuje hodnoty 1.",
+        "text": "Pearsonův koef. kontingence při velmi těsné závislosti proměnných dosahuje hodnoty 1.",
         "answers": [
             {
                 "text": "Ano",
@@ -1170,7 +1170,7 @@
         ]
     },
     {
-        "text": "80. Chcete porovnat výkony pracovníků (tj. počet vyr. výrobků za směnu) ve třech směnách. Použijete:",
+        "text": "Chcete porovnat výkony pracovníků (tj. počet vyr. výrobků za směnu) ve třech směnách. Použijete:",
         "answers": [
             {
                 "text": "t test v kor. analýze",
@@ -1187,7 +1187,7 @@
         ]
     },
     {
-        "text": "81. Co říká alternativní hypotéza u analýzy rozptylu.",
+        "text": "Co říká alternativní hypotéza u analýzy rozptylu.",
         "answers": [
             {
                 "text": "všechny střední hodnoty se liší",
@@ -1204,7 +1204,7 @@
         ]
     },
     {
-        "text": "82. Počet stupňů volnosti příslušný vnitroskupinovému součtu čtverců v analýze rozptylu:",
+        "text": "Počet stupňů volnosti příslušný vnitroskupinovému součtu čtverců v analýze rozptylu:",
         "answers": [
             {
                 "text": "závisí jen na počtu skupin",
@@ -1221,7 +1221,7 @@
         ]
     },
     {
-        "text": "83. Při použití Chí-kvadrát testu dobré shody ověřujeme shodu pozorovaných a teoretických četností v jednotlivých skupinách (resp. jednotlivých kategorií)",
+        "text": "Při použití Chí-kvadrát testu dobré shody ověřujeme shodu pozorovaných a teoretických četností v jednotlivých skupinách (resp. jednotlivých kategorií)",
         "answers": [
             {
                 "text": "Ano",
@@ -1234,7 +1234,7 @@
         ]
     },
     {
-        "text": "84. Regresní parabola je z hlediska parametrů lineární funkce",
+        "text": "Regresní parabola je z hlediska parametrů lineární funkce",
         "answers": [
             {
                 "text": "Ano",
@@ -1247,7 +1247,7 @@
         ]
     },
     {
-        "text": "85. Testové kritérium u ANOVY konstruujeme jako podíl meziskupinového a celkového součtu čtverců.",
+        "text": "Testové kritérium u ANOVY konstruujeme jako podíl meziskupinového a celkového součtu čtverců.",
         "answers": [
             {
                 "text": "Ano",
@@ -1260,7 +1260,7 @@
         ]
     },
     {
-        "text": "86. Když je záporná směrnice přímky, je záporný i korelační koeficient.",
+        "text": "Když je záporná směrnice přímky, je záporný i korelační koeficient.",
         "answers": [
             {
                 "text": "Ano",
@@ -1273,7 +1273,7 @@
         ]
     },
     {
-        "text": "87. Zjištěné četnosti uvnitř kont. tabulky se nazývají:",
+        "text": "Zjištěné četnosti uvnitř kont. tabulky se nazývají:",
         "answers": [
             {
                 "text": "marginální",
@@ -1290,7 +1290,7 @@
         ]
     },
     {
-        "text": "88. Korelační koeficient se používá pro určení závislosti analýzy rozptylu.",
+        "text": "Korelační koeficient se používá pro určení závislosti analýzy rozptylu.",
         "answers": [
             {
                 "text": "Ano",
@@ -1303,7 +1303,7 @@
         ]
     },
     {
-        "text": "89. Koeficient determinace v reg. analýze lze případně spočítat jako:",
+        "text": "Koeficient determinace v reg. analýze lze případně spočítat jako:",
         "answers": [
             {
                 "text": "druhá odmocnina z kor. koeficientu",
@@ -1320,7 +1320,7 @@
         ]
     },
     {
-        "text": "90. Těsnost závislosti v analýze rozptylu posuzujeme pomocí korelačního koeficientu.",
+        "text": "Těsnost závislosti v analýze rozptylu posuzujeme pomocí korelačního koeficientu.",
         "answers": [
             {
                 "text": "Ano",
@@ -1333,7 +1333,7 @@
         ]
     },
     {
-        "text": "91. Testujeme hypotézu v kontingenční tabulce o rozměru (r=3, s=4) a test. kritérium vyšlo G=-12,34.",
+        "text": "Testujeme hypotézu v kontingenční tabulce o rozměru (r=3, s=4) a test. kritérium vyšlo G=-12,34.",
         "answers": [
             {
                 "text": "Zamítáme H0",
@@ -1350,7 +1350,7 @@
         ]
     },
     {
-        "text": "92. Korelační koeficient = -0,8, co platí?",
+        "text": "Korelační koeficient = -0,8, co platí?",
         "answers": [
             {
                 "text": "silná přímá závislost",
@@ -1367,7 +1367,7 @@
         ]
     },
     {
-        "text": "93. Testová statistika používaná při analýze nezávislosti v kont. tabulce má za předpokladu platnosti testované hypotézy:",
+        "text": "Testová statistika používaná při analýze nezávislosti v kont. tabulce má za předpokladu platnosti testované hypotézy:",
         "answers": [
             {
                 "text": "Studentovo t-rozdělení",
@@ -1384,7 +1384,7 @@
         ]
     },
     {
-        "text": "94. Při výpočtu analýzy rozptylu porovnáváme testové kritérium s F hodnotou v tabulkách (Fisher- Snedecorův kvantil)",
+        "text": "Při výpočtu analýzy rozptylu porovnáváme testové kritérium s F hodnotou v tabulkách (Fisher- Snedecorův kvantil)",
         "answers": [
             {
                 "text": "Ano",
@@ -1397,7 +1397,7 @@
         ]
     },
     {
-        "text": "95. Chí-kvadrát má kvalitní výsledky pouze, když máme 5 a více skupin.",
+        "text": "Chí-kvadrát má kvalitní výsledky pouze, když máme 5 a více skupin.",
         "answers": [
             {
                 "text": "Ano",
@@ -1410,7 +1410,7 @@
         ]
     },
     {
-        "text": "96. Při testování závislosti v kontingenční tabulce se dvě podmíněné četnosti rovnají 1. V tom případě:",
+        "text": "Při testování závislosti v kontingenční tabulce se dvě podmíněné četnosti rovnají 1. V tom případě:",
         "answers": [
             {
                 "text": "Chí-kvadrát test nemůžeme použít.",
@@ -1427,7 +1427,7 @@
         ]
     },
     {
-        "text": "97. Očekávané četnosti vypočtené v jednotlivých polích kont. tabulky odpovídají hypotéze o závislosti dvou zkoumaných znaků",
+        "text": "Očekávané četnosti vypočtené v jednotlivých polích kont. tabulky odpovídají hypotéze o závislosti dvou zkoumaných znaků",
         "answers": [
             {
                 "text": "Ano",
@@ -1440,7 +1440,7 @@
         ]
     },
     {
-        "text": "98. Metodu nejmenších čtverců lze přímo použít k odhadu parametrů u nelineární regrese",
+        "text": "Metodu nejmenších čtverců lze přímo použít k odhadu parametrů u nelineární regrese",
         "answers": [
             {
                 "text": "Ano",
@@ -1453,7 +1453,7 @@
         ]
     },
     {
-        "text": "99. Lin. závislost 2 veličin je vyjádřena v grafu přímkou rovnoběžnou s vod. osou:",
+        "text": "Lin. závislost 2 veličin je vyjádřena v grafu přímkou rovnoběžnou s vod. osou:",
         "answers": [
             {
                 "text": "Jsou na sebe lin. závislé.",
@@ -1470,7 +1470,7 @@
         ]
     },
     {
-        "text": "100. Chí-kvadrát test dobré shody má počet stupňů volnosti rovný počtu členů.",
+        "text": "Chí-kvadrát test dobré shody má počet stupňů volnosti rovný počtu členů.",
         "answers": [
             {
                 "text": "Ano",
@@ -1483,7 +1483,7 @@
         ]
     },
     {
-        "text": "101. Poměr determinace u analýzy rozptylu, jak ho vypočítáme:",
+        "text": "Poměr determinace u analýzy rozptylu, jak ho vypočítáme:",
         "answers": [
             {
                 "text": "Meziskup. součet čtverců ku celkový součet čtverců",
@@ -1500,7 +1500,7 @@
         ]
     },
     {
-        "text": "102. Koeficient determinace v reg. analýze se počítá jako podíl",
+        "text": "Koeficient determinace v reg. analýze se počítá jako podíl",
         "answers": [
             {
                 "text": "teoretického součtu čtverců a reziduálního součtu čtverců",
@@ -1517,7 +1517,7 @@
         ]
     },
     {
-        "text": "103. U reg. funkcí lineárních v parametrech je součet odchylek skutečně pozorovaných hodnot vysvětlované proměnné od vyrovnaných hodnot odhadnutého modelu vždy kladný",
+        "text": "U reg. funkcí lineárních v parametrech je součet odchylek skutečně pozorovaných hodnot vysvětlované proměnné od vyrovnaných hodnot odhadnutého modelu vždy kladný",
         "answers": [
             {
                 "text": "Ano",
@@ -1530,7 +1530,7 @@
         ]
     },
     {
-        "text": "104. Metoda nejmenších čtverců:",
+        "text": "Metoda nejmenších čtverců:",
         "answers": [
             {
                 "text": "slouží k odhadu rozptylu",
@@ -1547,7 +1547,7 @@
         ]
     },
     {
-        "text": "105. Testové kritérium G, které se používá k ověření nezávislosti v kont. tabulce, vždy nabývá pouze nezáporných hodnot",
+        "text": "Testové kritérium G, které se používá k ověření nezávislosti v kont. tabulce, vždy nabývá pouze nezáporných hodnot",
         "answers": [
             {
                 "text": "Ano",
@@ -1560,7 +1560,7 @@
         ]
     },
     {
-        "text": "106. Co je index determinace?",
+        "text": "Co je index determinace?",
         "answers": [
             {
                 "text": "Poměr čtverce modelu a celkových čtverců",
@@ -1577,7 +1577,7 @@
         ]
     },
     {
-        "text": "107. Pro popis reg. závislosti byla použita přímka. Potom pro výsledky t-testu o parametru Byx a t-testu o kor. koeficientu platí:",
+        "text": "Pro popis reg. závislosti byla použita přímka. Potom pro výsledky t-testu o parametru Byx a t-testu o kor. koeficientu platí:",
         "answers": [
             {
                 "text": "je-li parametr Byx stat. významný, potom je výběrový kor. koeficient nenulový",
@@ -1594,7 +1594,7 @@
         ]
     },
     {
-        "text": "108. Pro korektní použití Chí-kvadrát testu musíme mít minimálně 5 skupin vysvětlující proměnné.",
+        "text": "Pro korektní použití Chí-kvadrát testu musíme mít minimálně 5 skupin vysvětlující proměnné.",
         "answers": [
             {
                 "text": "Ano",
@@ -1607,7 +1607,7 @@
         ]
     },
     {
-        "text": "109. Regresní analýza vyjadřuje závislost",
+        "text": "Regresní analýza vyjadřuje závislost",
         "answers": [
             {
                 "text": "Dvou kvantitativních proměnných",
@@ -1624,7 +1624,7 @@
         ]
     },
     {
-        "text": "110. Pokud v chí-kvadrátu není splněna podmínka o počtu skupin, můžeme případně některé skupiny, které jsou věcně společné sloučit.",
+        "text": "Pokud v chí-kvadrátu není splněna podmínka o počtu skupin, můžeme případně některé skupiny, které jsou věcně společné sloučit.",
         "answers": [
             {
                 "text": "Ano",
@@ -1637,7 +1637,7 @@
         ]
     },
     {
-        "text": "111. Chí-kvadrát test dobré shody ověřuje rovnost hodnot v jednotlivých skupinách",
+        "text": "Chí-kvadrát test dobré shody ověřuje rovnost hodnot v jednotlivých skupinách",
         "answers": [
             {
                 "text": "Ano",
@@ -1650,7 +1650,7 @@
         ]
     },
     {
-        "text": "112. Korelační koeficient je podíl reziduálního součtu čtverců na celkovém součtu čtverců.",
+        "text": "Korelační koeficient je podíl reziduálního součtu čtverců na celkovém součtu čtverců.",
         "answers": [
             {
                 "text": "Ano",
@@ -1663,7 +1663,7 @@
         ]
     },
     {
-        "text": "113. Statistika G (kontin. tabulky) vychází vždy v intervalu",
+        "text": "Statistika G (kontin. tabulky) vychází vždy v intervalu",
         "answers": [
             {
                 "text": "Ano",
@@ -1676,7 +1676,7 @@
         ]
     },
     {
-        "text": "114. Korelační koeficient:",
+        "text": "Korelační koeficient:",
         "answers": [
             {
                 "text": "Je relativní mírou variability",
@@ -1693,7 +1693,7 @@
         ]
     },
     {
-        "text": "115. Testování nezávislosti v kont. tabulce chí-kvadrát testem vyžaduje dostatečně velké:",
+        "text": "Testování nezávislosti v kont. tabulce chí-kvadrát testem vyžaduje dostatečně velké:",
         "answers": [
             {
                 "text": "sdružené četnosti",
@@ -1710,7 +1710,7 @@
         ]
     },
     {
-        "text": "116. Jestliže do modelu přidáme další vysvětlující proměnnou, může se index determinace snížit.",
+        "text": "Jestliže do modelu přidáme další vysvětlující proměnnou, může se index determinace snížit.",
         "answers": [
             {
                 "text": "Ano",
@@ -1723,7 +1723,7 @@
         ]
     },
     {
-        "text": "117. Chí-kvadrát test dobré shody má počet stupňů volnosti rovný počtu členů mínus 2.",
+        "text": "Chí-kvadrát test dobré shody má počet stupňů volnosti rovný počtu členů mínus 2.",
         "answers": [
             {
                 "text": "Ano",
@@ -1736,7 +1736,7 @@
         ]
     },
     {
-        "text": "118. Známe rovnici přímky y=130-0,08x, potom můžeme o kor. koeficientu říct:",
+        "text": "Známe rovnici přímky y=130-0,08x, potom můžeme o kor. koeficientu říct:",
         "answers": [
             {
                 "text": "Kor. koeficient je -0,08",
@@ -1753,7 +1753,7 @@
         ]
     },
     {
-        "text": "119. Korelační koeficient je podíl reziduálního součtu čtverců na celkovém součtu čtverců.",
+        "text": "Korelační koeficient je podíl reziduálního součtu čtverců na celkovém součtu čtverců.",
         "answers": [
             {
                 "text": "Ano",
@@ -1766,7 +1766,7 @@
         ]
     },
     {
-        "text": "120. Když zaměníme řádky a sloupce u kontingenčních tabulek, nemá to vliv na výsledek.",
+        "text": "Když zaměníme řádky a sloupce u kontingenčních tabulek, nemá to vliv na výsledek.",
         "answers": [
             {
                 "text": "Ano",
@@ -1779,7 +1779,7 @@
         ]
     },
     {
-        "text": "121. Může být index determinace vyšší než upravený index determinace.",
+        "text": "Může být index determinace vyšší než upravený index determinace.",
         "answers": [
             {
                 "text": "Ano",
@@ -1792,7 +1792,7 @@
         ]
     },
     {
-        "text": "122. Chí-kvadrát test dobré shody je založen na srovnávání pozorovaných četností a teoretických četností v jednotlivých skupinách.",
+        "text": "Chí-kvadrát test dobré shody je založen na srovnávání pozorovaných četností a teoretických četností v jednotlivých skupinách.",
         "answers": [
             {
                 "text": "Ano",
@@ -1805,7 +1805,7 @@
         ]
     },
     {
-        "text": "123. Klouzavé průměry umožňují vyhladit průběh časové řady a naznačit její trend",
+        "text": "Klouzavé průměry umožňují vyhladit průběh časové řady a naznačit její trend",
         "answers": [
             {
                 "text": "Ano",
@@ -1818,7 +1818,7 @@
         ]
     },
     {
-        "text": "124. Průměrný abs. přírustek čas. řady se rovná arit. průměru hodnot čas. řady.",
+        "text": "Průměrný abs. přírustek čas. řady se rovná arit. průměru hodnot čas. řady.",
         "answers": [
             {
                 "text": "Ano",
@@ -1831,7 +1831,7 @@
         ]
     },
     {
-        "text": "125. Pro očištění čas. řady počtu dopravních nehod od sezónní složky použijeme klouz. průměry délky 7",
+        "text": "Pro očištění čas. řady počtu dopravních nehod od sezónní složky použijeme klouz. průměry délky 7",
         "answers": [
             {
                 "text": "Ano",
@@ -1844,7 +1844,7 @@
         ]
     },
     {
-        "text": "126. Měsíční okamžikovou čas. řadu převedeme na čtvrtletní čas. řadu:",
+        "text": "Měsíční okamžikovou čas. řadu převedeme na čtvrtletní čas. řadu:",
         "answers": [
             {
                 "text": "součtem hodnot za 4 měsíce",
@@ -1861,7 +1861,7 @@
         ]
     },
     {
-        "text": "127. Průměrnou hodnotu čas. řady je vždy vhodné vypočítat jako prostý arit. průměr jejich jednotlivých hodnot",
+        "text": "Průměrnou hodnotu čas. řady je vždy vhodné vypočítat jako prostý arit. průměr jejich jednotlivých hodnot",
         "answers": [
             {
                 "text": "Ano",
@@ -1874,7 +1874,7 @@
         ]
     },
     {
-        "text": "128. Je-li hodnota koeficientu růstu v čas. řadě 0,7, znamená to:",
+        "text": "Je-li hodnota koeficientu růstu v čas. řadě 0,7, znamená to:",
         "answers": [
             {
                 "text": "hodnota ukazatele klesla o 30%",
@@ -1891,7 +1891,7 @@
         ]
     },
     {
-        "text": "129. Při modelování trendů v časové řadě pomocí reg. přístupu je vždy lepším modelem trendu parabolický trend než-li trend přímkový",
+        "text": "Při modelování trendů v časové řadě pomocí reg. přístupu je vždy lepším modelem trendu parabolický trend než-li trend přímkový",
         "answers": [
             {
                 "text": "Ano",
@@ -1904,7 +1904,7 @@
         ]
     },
     {
-        "text": "130. Chronologický průměr se používá při analýze okamžikových čas. řad",
+        "text": "Chronologický průměr se používá při analýze okamžikových čas. řad",
         "answers": [
             {
                 "text": "Ano",
@@ -1917,7 +1917,7 @@
         ]
     },
     {
-        "text": "131. Součet sezónních faktorů u modelu řady s konst. sezónností je:",
+        "text": "Součet sezónních faktorů u modelu řady s konst. sezónností je:",
         "answers": [
             {
                 "text": "roven nule",
@@ -1934,7 +1934,7 @@
         ]
     },
     {
-        "text": "132. Očištěná čas. řada má:",
+        "text": "Očištěná čas. řada má:",
         "answers": [
             {
                 "text": "jen trendovou složku",
@@ -1951,7 +1951,7 @@
         ]
     },
     {
-        "text": "133. Pro očištění denní čas. řady počtu dopravních nehod od sezónní složky použijeme:",
+        "text": "Pro očištění denní čas. řady počtu dopravních nehod od sezónní složky použijeme:",
         "answers": [
             {
                 "text": "prosté klouzavé průměry délky 5",
@@ -1968,7 +1968,7 @@
         ]
     },
     {
-        "text": "134. Čtvrtletní čas. řadu očistíme od sezónnosti:",
+        "text": "Čtvrtletní čas. řadu očistíme od sezónnosti:",
         "answers": [
             {
                 "text": "Jednoduchými klouzavými průměry",
@@ -1985,7 +1985,7 @@
         ]
     },
     {
-        "text": "135. Sezónní umělé proměnné jsou jen u čtvrtletních intervalů, ne u měsíčních ani ročních.",
+        "text": "Sezónní umělé proměnné jsou jen u čtvrtletních intervalů, ne u měsíčních ani ročních.",
         "answers": [
             {
                 "text": "Ano",
@@ -1998,7 +1998,7 @@
         ]
     },
     {
-        "text": "136. Pokud jsou všechny koef. růstu v časové řadě větší než 1, je i průměrný koeficient růstu větší než 1.",
+        "text": "Pokud jsou všechny koef. růstu v časové řadě větší než 1, je i průměrný koeficient růstu větší než 1.",
         "answers": [
             {
                 "text": "Ano",
@@ -2011,7 +2011,7 @@
         ]
     },
     {
-        "text": "137. Průměrné tempo růstu v čas. řadě musí být vždy větší než jedna.",
+        "text": "Průměrné tempo růstu v čas. řadě musí být vždy větší než jedna.",
         "answers": [
             {
                 "text": "Ano",
@@ -2024,7 +2024,7 @@
         ]
     },
     {
-        "text": "138. Systematické složky v čas. řadě jsou jen trendová a cyklická.",
+        "text": "Systematické složky v čas. řadě jsou jen trendová a cyklická.",
         "answers": [
             {
                 "text": "Ano",
@@ -2037,7 +2037,7 @@
         ]
     },
     {
-        "text": "139. Trendovou složku nelze určit pomocí:",
+        "text": "Trendovou složku nelze určit pomocí:",
         "answers": [
             {
                 "text": "klouzavých sez. průměrů s délkou období lichou.",
@@ -2054,7 +2054,7 @@
         ]
     },
     {
-        "text": "140. Hodnota kritéria MSE používaného v čas. řadách",
+        "text": "Hodnota kritéria MSE používaného v čas. řadách",
         "answers": [
             {
                 "text": "Nemůže být nikdy záporná",
@@ -2071,7 +2071,7 @@
         ]
     },
     {
-        "text": "141. Systematické složky v krátkodobé čas. řadě jsou pouze:",
+        "text": "Systematické složky v krátkodobé čas. řadě jsou pouze:",
         "answers": [
             {
                 "text": "trendová, sezónní, cyklická",
@@ -2088,7 +2088,7 @@
         ]
     },
     {
-        "text": "142. Při modelování sezónní složky reg. metodou do modelu:",
+        "text": "Při modelování sezónní složky reg. metodou do modelu:",
         "answers": [
             {
                 "text": "nevkládáme žádné sezónní umělé proměnné",
@@ -2105,7 +2105,7 @@
         ]
     },
     {
-        "text": "143. Centrované klouz. průměry použijeme pro očištění od sezónnosti čas. řady ročních údajů.",
+        "text": "Centrované klouz. průměry použijeme pro očištění od sezónnosti čas. řady ročních údajů.",
         "answers": [
             {
                 "text": "Ano",
@@ -2118,7 +2118,7 @@
         ]
     },
     {
-        "text": "144. Průměrnou hodnotu čas. řady je vždy vhodné vypočítat jako prostý arit. průměr jejich jednotlivých hodnot",
+        "text": "Průměrnou hodnotu čas. řady je vždy vhodné vypočítat jako prostý arit. průměr jejich jednotlivých hodnot",
         "answers": [
             {
                 "text": "Ano",
@@ -2131,7 +2131,7 @@
         ]
     },
     {
-        "text": "145. Chronologický průměr se používá pro výpočet",
+        "text": "Chronologický průměr se používá pro výpočet",
         "answers": [
             {
                 "text": "průměru hodnot intervalové čas. řady",
@@ -2148,7 +2148,7 @@
         ]
     },
     {
-        "text": "146. Chronologický průměr se využívá o okamžikových časových řad",
+        "text": "Chronologický průměr se využívá o okamžikových časových řad",
         "answers": [
             {
                 "text": "Ano",
@@ -2161,7 +2161,7 @@
         ]
     },
     {
-        "text": "147. Pokud jsou všechny koef. růstu v čas. řadě větší než 1, je průměrný koeficient růstu větší než 1.",
+        "text": "Pokud jsou všechny koef. růstu v čas. řadě větší než 1, je průměrný koeficient růstu větší než 1.",
         "answers": [
             {
                 "text": "Ano",
@@ -2174,7 +2174,7 @@
         ]
     },
     {
-        "text": "148. Průměrný koef. růstu v čas. řadě se vypočítá jako:",
+        "text": "Průměrný koef. růstu v čas. řadě se vypočítá jako:",
         "answers": [
             {
                 "text": "chron. průměr koeficientů růstu",
@@ -2191,7 +2191,7 @@
         ]
     },
     {
-        "text": "149. K odstranění sezónní složky ve čtvrtletní čas. řadě HDP je nejvhodnější použít:",
+        "text": "K odstranění sezónní složky ve čtvrtletní čas. řadě HDP je nejvhodnější použít:",
         "answers": [
             {
                 "text": "Prosté klouz. průměry",
@@ -2208,7 +2208,7 @@
         ]
     },
     {
-        "text": "150. Soubor produktů a indexů spotřebitelských cen se nazývá spotřební koš",
+        "text": "Soubor produktů a indexů spotřebitelských cen se nazývá spotřební koš",
         "answers": [
             {
                 "text": "Ano",
@@ -2221,7 +2221,7 @@
         ]
     },
     {
-        "text": "151. Jakou charakteristiku rel. změny cen 3 výrobků při stálém objemu produkce ze základního období použijeme:",
+        "text": "Jakou charakteristiku rel. změny cen 3 výrobků při stálém objemu produkce ze základního období použijeme:",
         "answers": [
             {
                 "text": "F. index",
@@ -2238,7 +2238,7 @@
         ]
     },
     {
-        "text": "152. Mírou inflace se rozumí změna spotřebního koše vyjádřena relativně",
+        "text": "Mírou inflace se rozumí změna spotřebního koše vyjádřena relativně",
         "answers": [
             {
                 "text": "Ano",
@@ -2251,7 +2251,7 @@
         ]
     },
     {
-        "text": "153. Pokud znáte Paascheho cen. index a Fisherův cen. index můžete zjistit:",
+        "text": "Pokud znáte Paascheho cen. index a Fisherův cen. index můžete zjistit:",
         "answers": [
             {
                 "text": "Laspeyeresův cen. index",
@@ -2268,7 +2268,7 @@
         ]
     },
     {
-        "text": "154. V pěti prodejnách určitého zboží prodejního řetězce došlo ke změně tržby oproti předcházejícímu období v % následovně: 15, -3, 11, 8, -11. Která z hodnot hodnotového indexu ze všech 5 prodejen není možná?",
+        "text": "V pěti prodejnách určitého zboží prodejního řetězce došlo ke změně tržby oproti předcházejícímu období v % následovně: 15, -3, 11, 8, -11. Která z hodnot hodnotového indexu ze všech 5 prodejen není možná?",
         "answers": [
             {
                 "text": "1,04",
@@ -2285,7 +2285,7 @@
         ]
     },
     {
-        "text": "155. K porovnání hodnot ve dvou po sobě jdoucích následujících obdobích se používá:",
+        "text": "K porovnání hodnot ve dvou po sobě jdoucích následujících obdobích se používá:",
         "answers": [
             {
                 "text": "index korelace",
@@ -2302,7 +2302,7 @@
         ]
     },
     {
-        "text": "156. Mezi extenzitní ukazatele patří:",
+        "text": "Mezi extenzitní ukazatele patří:",
         "answers": [
             {
                 "text": "pouze hodnota",
@@ -2319,7 +2319,7 @@
         ]
     },
     {
-        "text": "157. Mírou inflace se rozumí relativní změna indexu spotřeb. cen",
+        "text": "Mírou inflace se rozumí relativní změna indexu spotřeb. cen",
         "answers": [
             {
                 "text": "Ano",
@@ -2332,7 +2332,7 @@
         ]
     },
     {
-        "text": "158. Průměrná roční míra inflace byla v roce 2014 1,0% a v roce 2015 1,3%, z čehož můžeme vyvodit závěr:",
+        "text": "Průměrná roční míra inflace byla v roce 2014 1,0% a v roce 2015 1,3%, z čehož můžeme vyvodit závěr:",
         "answers": [
             {
                 "text": "Míra inflace stoupla meziročně o 0,3 proc. bodu",
@@ -2349,7 +2349,7 @@
         ]
     },
     {
-        "text": "159. K porovnání hodnot veličiny ve dvou po sobě následujících období se používá",
+        "text": "K porovnání hodnot veličiny ve dvou po sobě následujících období se používá",
         "answers": [
             {
                 "text": "index korelace",
@@ -2366,7 +2366,7 @@
         ]
     },
     {
-        "text": "160. Soubor reprezentantů a váhový systém indexu spotřebních cen se nazývá spotřební koš",
+        "text": "Soubor reprezentantů a váhový systém indexu spotřebních cen se nazývá spotřební koš",
         "answers": [
             {
                 "text": "Ano",
@@ -2379,7 +2379,7 @@
         ]
     },
     {
-        "text": "161. Individuální indexy dělíme na:",
+        "text": "Individuální indexy dělíme na:",
         "answers": [
             {
                 "text": "jednoduché a složené",
@@ -2396,7 +2396,7 @@
         ]
     },
     {
-        "text": "162. Spotřební koš představuje",
+        "text": "Spotřební koš představuje",
         "answers": [
             {
                 "text": "váhový systém indexu spotřeb. cen a ceny všech výrobků na trhu",
@@ -2413,7 +2413,7 @@
         ]
     },
     {
-        "text": "163. Jaký typ průměru je použit ve vzorci index množství Laspeyresův.",
+        "text": "Jaký typ průměru je použit ve vzorci index množství Laspeyresův.",
         "answers": [
             {
                 "text": "Vážený aritmetický",
@@ -2430,7 +2430,7 @@
         ]
     },
     {
-        "text": "164. Pro stanovení indexu spotřeb. cen se dává přednost",
+        "text": "Pro stanovení indexu spotřeb. cen se dává přednost",
         "answers": [
             {
                 "text": "Paascheho cenovému indexu",
@@ -2447,7 +2447,7 @@
         ]
     },
     {
-        "text": "165. Soubor reprezentantů a váhový systém indexu spotřeb. cen se nazývá spotřební koš.",
+        "text": "Soubor reprezentantů a váhový systém indexu spotřeb. cen se nazývá spotřební koš.",
         "answers": [
             {
                 "text": "Ano",
@@ -2460,7 +2460,7 @@
         ]
     },
     {
-        "text": "166. Členění na indexy množství a úrovně vychází z typu posuzovaného ukazatele",
+        "text": "Členění na indexy množství a úrovně vychází z typu posuzovaného ukazatele",
         "answers": [
             {
                 "text": "Ano",
@@ -2473,7 +2473,7 @@
         ]
     },
     {
-        "text": "167. Známe hodnotu jednoho výrobku v lednu a v březnu v 1 prodejním řetězci. Jaký index použijeme?",
+        "text": "Známe hodnotu jednoho výrobku v lednu a v březnu v 1 prodejním řetězci. Jaký index použijeme?",
         "answers": [
             {
                 "text": "hodnotový",
@@ -2490,7 +2490,7 @@
         ]
     },
     {
-        "text": "168. Je potřeba porovnat cenu jednoho výrobku v běžném období s jeho cenou v zk. období celkově za všechny čtyři obchody",
+        "text": "Je potřeba porovnat cenu jednoho výrobku v běžném období s jeho cenou v zk. období celkově za všechny čtyři obchody",
         "answers": [
             {
                 "text": "index proměnlivého složení",
@@ -2507,7 +2507,7 @@
         ]
     },
     {
-        "text": "169. Je hustota obyvatel ČR hodnota extenzitní?",
+        "text": "Je hustota obyvatel ČR hodnota extenzitní?",
         "answers": [
             {
                 "text": "Ano",
@@ -2520,7 +2520,7 @@
         ]
     },
     {
-        "text": "170. Index spotřebitelských cen je zveřejňován týdně",
+        "text": "Index spotřebitelských cen je zveřejňován týdně",
         "answers": [
             {
                 "text": "Ano",
@@ -2533,7 +2533,7 @@
         ]
     },
     {
-        "text": "171. Při indexní analýze pro index 1,2; 1,42; 1,36; 1,48 nemůže výsledek být.",
+        "text": "Při indexní analýze pro index 1,2; 1,42; 1,36; 1,48 nemůže výsledek být.",
         "answers": [
             {
                 "text": "1,25",
@@ -2550,7 +2550,7 @@
         ]
     },
     {
-        "text": "172. inflaci lze například říci, že:",
+        "text": "inflaci lze například říci, že:",
         "answers": [
             {
                 "text": "je vždy měsíčním bázickým indexem spotřebitelských cen",
@@ -2567,7 +2567,7 @@
         ]
     },
     {
-        "text": "173. Jaký použijeme index pro 3 výrobky se stejným množstvím v zk. období pro výpočet rel. změny ceny.",
+        "text": "Jaký použijeme index pro 3 výrobky se stejným množstvím v zk. období pro výpočet rel. změny ceny.",
         "answers": [
             {
                 "text": "Laspeyresův cen. index",
@@ -2584,7 +2584,7 @@
         ]
     },
     {
-        "text": "174. Hodnota směrnice v lineárním regresním modelu vyjadřuje:",
+        "text": "Hodnota směrnice v lineárním regresním modelu vyjadřuje:",
         "answers": [
             {
                 "text": "těsnost závislosti dvou číselných proměnných",
@@ -2601,7 +2601,7 @@
         ]
     },
     {
-        "text": "175. Rozptyl mezd ve firmě A je vyšší než ve firmě B. Co platí pro var. koeficienty?",
+        "text": "Rozptyl mezd ve firmě A je vyšší než ve firmě B. Co platí pro var. koeficienty?",
         "answers": [
             {
                 "text": "Ve firmě A je nižší než ve firmě B",
@@ -2618,7 +2618,7 @@
         ]
     },
     {
-        "text": "176. Pouze jedna z kombinací hodnot může pocházet z distribuční funkce náh. veličiny s def. oborem daným hodnotami 1, 2, a 3",
+        "text": "Pouze jedna z kombinací hodnot může pocházet z distribuční funkce náh. veličiny s def. oborem daným hodnotami 1, 2, a 3",
         "answers": [
             {
                 "text": "F(0)=0; F(2)=0,6; F(3)=1",
@@ -2635,7 +2635,7 @@
         ]
     },
     {
-        "text": "177. Představu o nezávislosti veličin v kont. tabulce můžeme získat tak, že sdružené četnosti vydělíme celkovým rozsahem souboru",
+        "text": "Představu o nezávislosti veličin v kont. tabulce můžeme získat tak, že sdružené četnosti vydělíme celkovým rozsahem souboru",
         "answers": [
             {
                 "text": "Ano",
@@ -2648,7 +2648,7 @@
         ]
     },
     {
-        "text": "178. Mírou inflace se rozumí změna cenové hladiny vyjádřena absolutně",
+        "text": "Mírou inflace se rozumí změna cenové hladiny vyjádřena absolutně",
         "answers": [
             {
                 "text": "Ano",
@@ -2661,7 +2661,7 @@
         ]
     },
     {
-        "text": "179. Pro distribuční funkci F(x) platí:",
+        "text": "Pro distribuční funkci F(x) platí:",
         "answers": [
             {
                 "text": "0<F(x)<1",
@@ -2678,7 +2678,7 @@
         ]
     },
     {
-        "text": "180. Průměrný koeficient růstu lze vypočítat jako aritmetický průměr koeficientů růstu",
+        "text": "Průměrný koeficient růstu lze vypočítat jako aritmetický průměr koeficientů růstu",
         "answers": [
             {
                 "text": "Ano",
@@ -2691,7 +2691,7 @@
         ]
     },
     {
-        "text": "181. Počet stupňů volnosti vnitroskupinového součtu čtverců v analýze rozptylu",
+        "text": "Počet stupňů volnosti vnitroskupinového součtu čtverců v analýze rozptylu",
         "answers": [
             {
                 "text": "závisí na počtu skupin",
@@ -2708,7 +2708,7 @@
         ]
     },
     {
-        "text": "182. Chronologický průměr se používá při výpočtu průměrného koef. růstu",
+        "text": "Chronologický průměr se používá při výpočtu průměrného koef. růstu",
         "answers": [
             {
                 "text": "Ano",
@@ -2721,7 +2721,7 @@
         ]
     },
     {
-        "text": "183. Fisherův index je arit. průměrem Laspeyeresova indexu a Paascheho indexu",
+        "text": "Fisherův index je arit. průměrem Laspeyeresova indexu a Paascheho indexu",
         "answers": [
             {
                 "text": "Ano",
@@ -2734,7 +2734,7 @@
         ]
     },
     {
-        "text": "184. Při vyčerpávajícím šetření jsou prošetřeny veškeré jednotky stat. souboru",
+        "text": "Při vyčerpávajícím šetření jsou prošetřeny veškeré jednotky stat. souboru",
         "answers": [
             {
                 "text": "Ano",
@@ -2747,7 +2747,7 @@
         ]
     },
     {
-        "text": "185. Chronologický průměr se počítá jako",
+        "text": "Chronologický průměr se počítá jako",
         "answers": [
             {
                 "text": "prostý aritmetický průměr všech hodnot čas. řady",
@@ -2764,7 +2764,7 @@
         ]
     },
     {
-        "text": "186. V regresním modelu má test. kritérium jaké rozdělení?",
+        "text": "V regresním modelu má test. kritérium jaké rozdělení?",
         "answers": [
             {
                 "text": "Chí-kvadrát",
@@ -2781,7 +2781,7 @@
         ]
     },
     {
-        "text": "187. Průměrnou hodnotu čas. řady “stav zásob v tis. Kč k poslednímu dni daného měsíce” zjištěných v lednu, dubnu a květnu, vypočítáme:",
+        "text": "Průměrnou hodnotu čas. řady “stav zásob v tis. Kč k poslednímu dni daného měsíce” zjištěných v lednu, dubnu a květnu, vypočítáme:",
         "answers": [
             {
                 "text": "prostým chronologickým průměrem",
@@ -2798,7 +2798,7 @@
         ]
     },
     {
-        "text": "188. Hodnota MSE používaného u čas. řad",
+        "text": "Hodnota MSE používaného u čas. řad",
         "answers": [
             {
                 "text": "Nemůže být nikdy záporná",
@@ -2815,7 +2815,7 @@
         ]
     },
     {
-        "text": "189. Síla testu je doplněk hladiny významnosti do jedné",
+        "text": "Síla testu je doplněk hladiny významnosti do jedné",
         "answers": [
             {
                 "text": "Ano",
@@ -2828,7 +2828,7 @@
         ]
     },
     {
-        "text": "190. Pravděpodobnost chyby prvního druhu je vždy větší než prav. chyby druhého druhu",
+        "text": "Pravděpodobnost chyby prvního druhu je vždy větší než prav. chyby druhého druhu",
         "answers": [
             {
                 "text": "Ano",
@@ -2841,7 +2841,7 @@
         ]
     },
     {
-        "text": "191. Na základě údajů o spotřebě elektrické energie v souboru domácností byl zkonstruován 90% a 95% oboustranný interval spolehlivosti pro střední hodnotu spotřeby. Pak platí",
+        "text": "Na základě údajů o spotřebě elektrické energie v souboru domácností byl zkonstruován 90% a 95% oboustranný interval spolehlivosti pro střední hodnotu spotřeby. Pak platí",
         "answers": [
             {
                 "text": "oba jsou stejně široké",
@@ -2858,7 +2858,7 @@
         ]
     },
     {
-        "text": "192. Hladina významnosti statistického testu udává:",
+        "text": "Hladina významnosti statistického testu udává:",
         "answers": [
             {
                 "text": "pravděpodobnost, že zamítneme neplatnou nulovou hypotézu",
@@ -2875,7 +2875,7 @@
         ]
     },
     {
-        "text": "193. Při nezávislosti dvou kat. proměnných se sdružené teoretické četnosti rovnají součinu marginálních četností (v příslušném řádku a sloupci) děleném rozsahem souboru",
+        "text": "Při nezávislosti dvou kat. proměnných se sdružené teoretické četnosti rovnají součinu marginálních četností (v příslušném řádku a sloupci) děleném rozsahem souboru",
         "answers": [
             {
                 "text": "Ano",
@@ -2888,7 +2888,7 @@
         ]
     },
     {
-        "text": "194. U souborů 140 bytů s různou výší nájemného bylo nájemné zvýšeno o 20 %. Jak se změní rozptyl a var. koeficient nájemného?",
+        "text": "U souborů 140 bytů s různou výší nájemného bylo nájemné zvýšeno o 20 %. Jak se změní rozptyl a var. koeficient nájemného?",
         "answers": [
             {
                 "text": "Rozptyl vzroste o 44 % a var. koeficient se nezmění",
@@ -2905,7 +2905,7 @@
         ]
     },
     {
-        "text": "195. Zvýšením rozsahu výběru se snižuje přesnost intervalového odhadu",
+        "text": "Zvýšením rozsahu výběru se snižuje přesnost intervalového odhadu",
         "answers": [
             {
                 "text": "Ano",
@@ -2918,7 +2918,7 @@
         ]
     },
     {
-        "text": "196. Individuální složené indexy používáme v případě nestejnorodých ukazatelů",
+        "text": "Individuální složené indexy používáme v případě nestejnorodých ukazatelů",
         "answers": [
             {
                 "text": "Ano",
@@ -2931,7 +2931,7 @@
         ]
     },
     {
-        "text": "197. Binomické rozdělení je vhodným modelem, pokud se jedná o nez. náhodné pokusy",
+        "text": "Binomické rozdělení je vhodným modelem, pokud se jedná o nez. náhodné pokusy",
         "answers": [
             {
                 "text": "ano",
@@ -2944,7 +2944,7 @@
         ]
     },
     {
-        "text": "198. Statistická definice pravděpodobnosti vychází z relativní četnosti výskytu jevu",
+        "text": "Statistická definice pravděpodobnosti vychází z relativní četnosti výskytu jevu",
         "answers": [
             {
                 "text": "ano",
@@ -2957,7 +2957,7 @@
         ]
     },
     {
-        "text": "199. Obsahem nul. hypotézy v ANOVĚ je:",
+        "text": "Obsahem nul. hypotézy v ANOVĚ je:",
         "answers": [
             {
                 "text": "závislost kvant. proměnné na kategoriální",
@@ -2974,7 +2974,7 @@
         ]
     },
     {
-        "text": "200. Hodnota testového kritéria se vypočítá na základě výběrových údajů, zatímco kritická hodnota se najde v tabulkách kvantilů některého prav. rozdělení",
+        "text": "Hodnota testového kritéria se vypočítá na základě výběrových údajů, zatímco kritická hodnota se najde v tabulkách kvantilů některého prav. rozdělení",
         "answers": [
             {
                 "text": "Ano",
@@ -2987,7 +2987,7 @@
         ]
     },
     {
-        "text": "201. Poměr determinace se používá v analýze rozptylu, index determinace v regresní analýze",
+        "text": "Poměr determinace se používá v analýze rozptylu, index determinace v regresní analýze",
         "answers": [
             {
                 "text": "Ano",
@@ -3000,7 +3000,7 @@
         ]
     },
     {
-        "text": "202. Co lze vyčíst z hodnoty párového korelačního koeficientu -1,27?",
+        "text": "Co lze vyčíst z hodnoty párového korelačního koeficientu -1,27?",
         "answers": [
             {
                 "text": "Chybu (této hodnoty korelační koeficient nemůže nabýt)",
@@ -3017,7 +3017,7 @@
         ]
     },
     {
-        "text": "203. Při výpočtu Laspeyeresova cenového indexu používáme vážený aritmetický průměr, kde vahami je hodnota produkce z běžného období",
+        "text": "Při výpočtu Laspeyeresova cenového indexu používáme vážený aritmetický průměr, kde vahami je hodnota produkce z běžného období",
         "answers": [
             {
                 "text": "Ano",
@@ -3030,7 +3030,7 @@
         ]
     },
     {
-        "text": "204. Podmínkou korektního použití chí-kvadrát testu je, že:",
+        "text": "Podmínkou korektního použití chí-kvadrát testu je, že:",
         "answers": [
             {
                 "text": "očekávané četnosti jednotlivých kategorií jsou alespoň 5.",
@@ -3047,7 +3047,7 @@
         ]
     },
     {
-        "text": "205. Chronologický průměr se používá při výpočtu průměrného koeficientu růstu",
+        "text": "Chronologický průměr se používá při výpočtu průměrného koeficientu růstu",
         "answers": [
             {
                 "text": "Ne",
@@ -3060,7 +3060,7 @@
         ]
     },
     {
-        "text": "206. Směrodatná odchylka souboru je ve čtvercích jednotek, ve kterých jsou uvedeny původní hodnoty souboru",
+        "text": "Směrodatná odchylka souboru je ve čtvercích jednotek, ve kterých jsou uvedeny původní hodnoty souboru",
         "answers": [
             {
                 "text": "Ano",
@@ -3073,7 +3073,7 @@
         ]
     },
     {
-        "text": "207. Pokud je první hodnota čas. řady stejná jako poslední hodnota časové řady je průměr. absolutní přírustek této časové řady roven nule",
+        "text": "Pokud je první hodnota čas. řady stejná jako poslední hodnota časové řady je průměr. absolutní přírustek této časové řady roven nule",
         "answers": [
             {
                 "text": "Ano",
@@ -3086,7 +3086,7 @@
         ]
     },
     {
-        "text": "208. Pro normování normálně rozdělené náhodné veličiny potřebujeme znát:",
+        "text": "Pro normování normálně rozdělené náhodné veličiny potřebujeme znát:",
         "answers": [
             {
                 "text": "střední hodnotu a rozptyl náhodné veličiny",
@@ -3103,7 +3103,7 @@
         ]
     },
     {
-        "text": "209. Pouze jedna z následujících kombinací hodnot může pocházet z distribuční funkce náhodné veličiny s def. oborem daným hodnotami 1,2 a 3",
+        "text": "Pouze jedna z následujících kombinací hodnot může pocházet z distribuční funkce náhodné veličiny s def. oborem daným hodnotami 1,2 a 3",
         "answers": [
             {
                 "text": "F(0)=0, F(2)=0,6 a F(3)=1",
@@ -3120,7 +3120,7 @@
         ]
     },
     {
-        "text": "210. Průměrnou hodnotu čas. řady “stav zásob v tis. Kč k poslednímu dni daného měsíce” zjištěných v roce 2018 v lednu, dubnu a pak od června do prosince vypočítáme",
+        "text": "Průměrnou hodnotu čas. řady “stav zásob v tis. Kč k poslednímu dni daného měsíce” zjištěných v roce 2018 v lednu, dubnu a pak od června do prosince vypočítáme",
         "answers": [
             {
                 "text": "prostým chronologickým průměrem",
@@ -3137,7 +3137,7 @@
         ]
     },
     {
-        "text": "211. Má-li jeden jev pravděpodobnost 0,5 a druhý 0,2, pravděpodobnost jejich průniku za předpokladu, že jde o jevy nezávislé je menší než 0,3",
+        "text": "Má-li jeden jev pravděpodobnost 0,5 a druhý 0,2, pravděpodobnost jejich průniku za předpokladu, že jde o jevy nezávislé je menší než 0,3",
         "answers": [
             {
                 "text": "Ano",
@@ -3150,7 +3150,7 @@
         ]
     },
     {
-        "text": "212. Sezónní složka se vyskytuje pouze ve čtvrtletních ekonomických čas. řadách a nikoli v měsíčních ekonomických čas. řadách",
+        "text": "Sezónní složka se vyskytuje pouze ve čtvrtletních ekonomických čas. řadách a nikoli v měsíčních ekonomických čas. řadách",
         "answers": [
             {
                 "text": "Ano",
@@ -3163,7 +3163,7 @@
         ]
     },
     {
-        "text": "213. Metoda nejmenších čtverců je použitelná k pořízení bodového odhadu parametrů regresní funkce nelineární v parametrech",
+        "text": "Metoda nejmenších čtverců je použitelná k pořízení bodového odhadu parametrů regresní funkce nelineární v parametrech",
         "answers": [
             {
                 "text": "ANO",
@@ -3176,7 +3176,7 @@
         ]
     },
     {
-        "text": "214. Metoda nejmenších čtverců je použitelná k pořízení bodového odhadu parametrů regresní funkce lineární v parametrech",
+        "text": "Metoda nejmenších čtverců je použitelná k pořízení bodového odhadu parametrů regresní funkce lineární v parametrech",
         "answers": [
             {
                 "text": "ANO",
@@ -3189,7 +3189,7 @@
         ]
     },
     {
-        "text": "215. Ukazatel meziroční inflace vypovídá o procentní změně",
+        "text": "Ukazatel meziroční inflace vypovídá o procentní změně",
         "answers": [
             {
                 "text": "cenové hladiny ve sledovaném měsíci oproti měsíci bezprostředně předcházejícímu",
@@ -3206,7 +3206,7 @@
         ]
     },
     {
-        "text": "216. Zahrnutím další vysvětlující proměnné do lineárního regresního modelu se hodnota indexu determinace může snížít",
+        "text": "Zahrnutím další vysvětlující proměnné do lineárního regresního modelu se hodnota indexu determinace může snížít",
         "answers": [
             {
                 "text": "Ano",

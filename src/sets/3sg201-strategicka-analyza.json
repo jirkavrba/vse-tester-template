@@ -1,6 +1,6 @@
 [
     {
-        "text": "1) Jak co nejúspěšněji uspokojit stakeholdery?",
+        "text": "Jak co nejúspěšněji uspokojit stakeholdery?",
         "answers": [
             {
                 "text": "Soustředit se na všechny stakeholdery a plánovat pomocí managementu očekávání",
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "text": "2) Apple má _______ diverzifikaci. Nabízí ________ výběr různých produktů.",
+        "text": "Apple má _______ diverzifikaci. Nabízí ________ výběr různých produktů.",
         "answers": [
             {
                 "text": "nulovou/neobsáhlý",
@@ -34,7 +34,7 @@
         ]
     },
     {
-        "text": "3) Jaké je správně pořadí dílčích analýz v rámci komplexní strategické analýzy firmy?",
+        "text": "Jaké je správně pořadí dílčích analýz v rámci komplexní strategické analýzy firmy?",
         "answers": [
             {
                 "text": "5 sil, PESTEL, Analýza Stakeholderů, SWOT, VRIO",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "text": "4) Jestliže plán strategické analýzy obsahuje níže uvedené nástroje, jaká zásadní otázka nebude zodpovězena? Analýza stakeholderů – analýza konkurence – analýza vnějšího okolí – analýza pětisil – analýza konkurenčního životního cyklu",
+        "text": "Jestliže plán strategické analýzy obsahuje níže uvedené nástroje, jaká zásadní otázka nebude zodpovězena? Analýza stakeholderů – analýza konkurence – analýza vnějšího okolí – analýza pětisil – analýza konkurenčního životního cyklu",
         "answers": [
             {
                 "text": "Co jsou silné a slabě stránky společnosti",
@@ -76,7 +76,7 @@
         ]
     },
     {
-        "text": "5) Jak může stratég nejlépe identifikovat klíčové nejistoty při plánování scénářů?",
+        "text": "Jak může stratég nejlépe identifikovat klíčové nejistoty při plánování scénářů?",
         "answers": [
             {
                 "text": "Soustředí se na více i méně podstatné faktory, které ovlivní společnost.",
@@ -97,7 +97,7 @@
         ]
     },
     {
-        "text": "6) Začal/a jste pracovat ve společnosti a dostal/a jste k dispozici původní plán strategické analýzy svého předchůdce. Které z následujících částí byste opravil/a či vyřadil/a?",
+        "text": "Začal/a jste pracovat ve společnosti a dostal/a jste k dispozici původní plán strategické analýzy svého předchůdce. Které z následujících částí byste opravil/a či vyřadil/a?",
         "answers": [
             {
                 "text": "Úzké zaměření analýzy na určitou funkční oblast v rámci společnosti.",
@@ -118,7 +118,7 @@
         ]
     },
     {
-        "text": "7) V portfoliové matici BCG byste relativní podíl produktu firmy XY na trhu ČR počítali jako:",
+        "text": "V portfoliové matici BCG byste relativní podíl produktu firmy XY na trhu ČR počítali jako:",
         "answers": [
             {
                 "text": "Podíl produktu firmy XY na trhu dělený tržním podílem obdobného výrobku u největšího konkurenta firmy XY v ČR.",
@@ -139,7 +139,7 @@
         ]
     },
     {
-        "text": "8) Dlouhodobým a nejdůležitějším cílem firmy je:",
+        "text": "Dlouhodobým a nejdůležitějším cílem firmy je:",
         "answers": [
             {
                 "text": "Vytvářet zisk.",
@@ -160,7 +160,7 @@
         ]
     },
     {
-        "text": "9) Autodesk Inc. je americkou společnosti vyvíjející grafické softwary typu CAD určené pro profesionální grafiky a designéry. Jedná se o velmi sofistikované programové nástroje, čemuž také odpovídá jejich prémiová cena. Tato strategie může být popsána jako:",
+        "text": "Autodesk Inc. je americkou společnosti vyvíjející grafické softwary typu CAD určené pro profesionální grafiky a designéry. Jedná se o velmi sofistikované programové nástroje, čemuž také odpovídá jejich prémiová cena. Tato strategie může být popsána jako:",
         "answers": [
             {
                 "text": "Zaostření na nízké náklady a úzké portfolio",
@@ -181,7 +181,7 @@
         ]
     },
     {
-        "text": "10) Typické charakteristiky konsolidovaného odvětví jsou:",
+        "text": "Typické charakteristiky konsolidovaného odvětví jsou:",
         "answers": [
             {
                 "text": "Malý počet firem, velké vstupní bariéry",
@@ -202,7 +202,7 @@
         ]
     },
     {
-        "text": "11) Mezi tržní globalizační tlaky, které podporují globalizaci, patří???????:",
+        "text": "Mezi tržní globalizační tlaky, které podporují globalizaci, patří???????:",
         "answers": [
             {
                 "text": "Globální úspory z rozsahu",
@@ -223,7 +223,7 @@
         ]
     },
     {
-        "text": "12) Co by mělo být obecným celkovým cílem stratéga při použití SWOT analýzy?",
+        "text": "Co by mělo být obecným celkovým cílem stratéga při použití SWOT analýzy?",
         "answers": [
             {
                 "text": "Ohodnotit schopnosti společnosti.",
@@ -244,7 +244,7 @@
         ]
     },
     {
-        "text": "13) O kterou z níže uvedených bariér vstupu do odvětví by se měly firmy primárně snažit?",
+        "text": "O kterou z níže uvedených bariér vstupu do odvětví by se měly firmy primárně snažit?",
         "answers": [
             {
                 "text": "usilovat o vytvoření vysokých vstupních investičních nákladů.",
@@ -265,7 +265,7 @@
         ]
     },
     {
-        "text": "14) Zábavní průmysl je odvětví:",
+        "text": "Zábavní průmysl je odvětví:",
         "answers": [
             {
                 "text": "Křížově-cyklické",
@@ -286,7 +286,7 @@
         ]
     },
     {
-        "text": "15) Vyberte správné tvrzení, které se týká Porterova hodnototvorného řetězce:",
+        "text": "Vyberte správné tvrzení, které se týká Porterova hodnototvorného řetězce:",
         "answers": [
             {
                 "text": "Činnosti v Porterově hodnototvorném řetězci se člení výrobní a obstaravatelské.",
@@ -307,7 +307,7 @@
         ]
     },
     {
-        "text": "16) Princip ,,strategických hodin\" je založen na kombinaci:",
+        "text": "Princip ,,strategických hodin\" je založen na kombinaci:",
         "answers": [
             {
                 "text": "konkurenční výhody a konkurenčního rozsahu.",
@@ -328,7 +328,7 @@
         ]
     },
     {
-        "text": "17) Chytré náramky a hodinky (např. Fitbit, Jawbone, Garmin..) jsou relativně novým fenoménem a mnoho společností začíná s jejich výrobou. V jaké fázi se nachází toto odvětví?",
+        "text": "Chytré náramky a hodinky (např. Fitbit, Jawbone, Garmin..) jsou relativně novým fenoménem a mnoho společností začíná s jejich výrobou. V jaké fázi se nachází toto odvětví?",
         "answers": [
             {
                 "text": "Fáze zralosti",
@@ -349,7 +349,7 @@
         ]
     },
     {
-        "text": "18) Jak může být dosažena hodnotná konkurenční pozice?",
+        "text": "Jak může být dosažena hodnotná konkurenční pozice?",
         "answers": [
             {
                 "text": "Zákazníci odstanou to, co si přejí.",
@@ -370,7 +370,7 @@
         ]
     },
     {
-        "text": "19) Jak by mohla společnost co nejúspěšněji vytvořit hodnotu pro své stakeholdery?",
+        "text": "Jak by mohla společnost co nejúspěšněji vytvořit hodnotu pro své stakeholdery?",
         "answers": [
             {
                 "text": "Soustředěním se na stakeholdery, kteří jsou přímo spojeni s příležitostmi na trhu.",
@@ -391,7 +391,7 @@
         ]
     },
     {
-        "text": "20) Jste zodpovědný za strategické řízení společnosti. Která z následujících možností popisuje plán, který by s největší pravděpodobností vedl k úspěšnému strategickému řízení společnosti?",
+        "text": "Jste zodpovědný za strategické řízení společnosti. Která z následujících možností popisuje plán, který by s největší pravděpodobností vedl k úspěšnému strategickému řízení společnosti?",
         "answers": [
             {
                 "text": "Zaměřit se zejména na strategickou analýzu, neboť formulace a implementace strategie ovlivní celkové strategické řízení s daleko menší pravděpodobností.",
@@ -412,7 +412,7 @@
         ]
     },
     {
-        "text": "21) Která z následujících interpretací nejlépe vystihuje výplatní matici?",
+        "text": "Která z následujících interpretací nejlépe vystihuje výplatní matici?",
         "answers": [
             {
                 "text": "Jestliže jedna společnost sníží cenu, měla by ji snížit i druhá společnost.",
@@ -433,7 +433,7 @@
         ]
     },
     {
-        "text": "22) VRIO analýza analyzuje vnitřní zdroje a schopnosti společnosti z pohledu jejich:",
+        "text": "VRIO analýza analyzuje vnitřní zdroje a schopnosti společnosti z pohledu jejich:",
         "answers": [
             {
                 "text": "Hodnoty, vzácnosti, nezávislosti a příležitostí, které přinášejí.",
@@ -454,7 +454,7 @@
         ]
     },
     {
-        "text": "23) Vysokou ziskovost v odvětví lze očekávat, pokud:",
+        "text": "Vysokou ziskovost v odvětví lze očekávat, pokud:",
         "answers": [
             {
                 "text": "Dodavatelé vyhrožují integrací vpřed",
@@ -475,7 +475,7 @@
         ]
     },
     {
-        "text": "24) Odvětví ve fázi zralosti se vyznačuje:",
+        "text": "Odvětví ve fázi zralosti se vyznačuje:",
         "answers": [
             {
                 "text": "Nízkou tržní sílou kupujících",
@@ -496,7 +496,7 @@
         ]
     },
     {
-        "text": "25) Výrobce sportovní obuvi přijde s novým designem boty se zabudovaných čipem, který sleduje uběhlou vzdálenost a rychlost. Jak by měl reagovat konkurenční výrobce sportovní obuvi?",
+        "text": "Výrobce sportovní obuvi přijde s novým designem boty se zabudovaných čipem, který sleduje uběhlou vzdálenost a rychlost. Jak by měl reagovat konkurenční výrobce sportovní obuvi?",
         "answers": [
             {
                 "text": "Zkoumat reakce zákazníků a podle toho reagovat.",
@@ -517,7 +517,7 @@
         ]
     },
     {
-        "text": "26) Cenový šampióni spoléhají na efekt úspor z rozsahu, což znamená vyrábět...",
+        "text": "Cenový šampióni spoléhají na efekt úspor z rozsahu, což znamená vyrábět...",
         "answers": [
             {
                 "text": "Vyrábět co nejlevněji je to možné.",
@@ -538,7 +538,7 @@
         ]
     },
     {
-        "text": "27) Který z následujících aspektů je nejdůležitější v rámci řízení stakeholderů?",
+        "text": "Který z následujících aspektů je nejdůležitější v rámci řízení stakeholderů?",
         "answers": [
             {
                 "text": "Sladění hodnot uznávaných společností, tržních příležitostí a schopností společnosti.",
@@ -559,7 +559,7 @@
         ]
     },
     {
-        "text": "28) Co je substitutem Burger Kingu?",
+        "text": "Co je substitutem Burger Kingu?",
         "answers": [
             {
                 "text": "McDonalds",
@@ -580,7 +580,7 @@
         ]
     },
     {
-        "text": "29) Mezi sekundární stakeholdery patří:",
+        "text": "Mezi sekundární stakeholdery patří:",
         "answers": [
             {
                 "text": "Média",
@@ -601,7 +601,7 @@
         ]
     },
     {
-        "text": "30) Vyjednávací síla zákazníka je vysoká, pokud:",
+        "text": "Vyjednávací síla zákazníka je vysoká, pokud:",
         "answers": [
             {
                 "text": "Máme velký počet zákazníků se spíše menšími objemy zakázek, význam námi prodávaného produktu je pro zákazníka malý, přechodové náklady zákazníka jsou nízké.",
@@ -622,7 +622,7 @@
         ]
     },
     {
-        "text": "31) Jako podnět pro tvorbu variant strategie (používají):",
+        "text": "Jako podnět pro tvorbu variant strategie (používají):",
         "answers": [
             {
                 "text": "Cíle podniku",
@@ -643,7 +643,7 @@
         ]
     },
     {
-        "text": "32) Opel prodává 7 modelů, průměrná cena 735 a objem prodaných aut je 4500, Renault prodává 7 modelů, průměrná cena 796 a objem prodaných aut je 4250, Fiat prodává 8 modelů, průměrná cena 688 a objem prodaných aut je 3600, Volkswagen prodává 7 modelů, průměrná cena 1800 a objem prodaných aut je 3200, Citroen prodává 7 modelů, průměrná cena 659 a objem prodaných aut je 5003. Která značka nepatří do konkurenční složky se značkou Renault:",
+        "text": "Opel prodává 7 modelů, průměrná cena 735 a objem prodaných aut je 4500, Renault prodává 7 modelů, průměrná cena 796 a objem prodaných aut je 4250, Fiat prodává 8 modelů, průměrná cena 688 a objem prodaných aut je 3600, Volkswagen prodává 7 modelů, průměrná cena 1800 a objem prodaných aut je 3200, Citroen prodává 7 modelů, průměrná cena 659 a objem prodaných aut je 5003. Která značka nepatří do konkurenční složky se značkou Renault:",
         "answers": [
             {
                 "text": "Opel",
@@ -664,7 +664,7 @@
         ]
     },
     {
-        "text": "33) McDonald’s se obvykle pokouší lákat nové zákazníky dočasnou nabídkou odlišných produktů v rámci „Řeckých, Italských, Amerických týdnů, ...“ Přestože toto jídlo může vypadat více exoticky a tím naplňovat jakési zákaznické potřeby, společnost se stále snaží těžit ze svých hlavních kompetencí, kterými jsou především kvalitní služby ve sféře rychlého občerstvení. O který typ strategie se jedná?",
+        "text": "McDonald’s se obvykle pokouší lákat nové zákazníky dočasnou nabídkou odlišných produktů v rámci „Řeckých, Italských, Amerických týdnů, ...“ Přestože toto jídlo může vypadat více exoticky a tím naplňovat jakési zákaznické potřeby, společnost se stále snaží těžit ze svých hlavních kompetencí, kterými jsou především kvalitní služby ve sféře rychlého občerstvení. O který typ strategie se jedná?",
         "answers": [
             {
                 "text": "Reflektivní.",
@@ -685,7 +685,7 @@
         ]
     },
     {
-        "text": "34) Co z následujících nenáleží mezi bariéry vstupu do odvětví:",
+        "text": "Co z následujících nenáleží mezi bariéry vstupu do odvětví:",
         "answers": [
             {
                 "text": "Očekávaná odveta ze strany konkurentů",
@@ -706,7 +706,7 @@
         ]
     },
     {
-        "text": "35) Na rozdíl od Porterova modelu pěti sil, kde se na zákazníka do jisté míry pohlíží „konkurenčním“ pojledem a analyzuje se, jaká je jejich vyjednávací  síla a jakým způsobem ji omezit, Delta model směřuje k vytvoření vztahu se zákazníkem a nevidí je jako „konkurenci“. Silného pouta mezi společnosti a zákazníkem lze dosáhnout kombinací následujícího:",
+        "text": "Na rozdíl od Porterova modelu pěti sil, kde se na zákazníka do jisté míry pohlíží „konkurenčním“ pojledem a analyzuje se, jaká je jejich vyjednávací  síla a jakým způsobem ji omezit, Delta model směřuje k vytvoření vztahu se zákazníkem a nevidí je jako „konkurenci“. Silného pouta mezi společnosti a zákazníkem lze dosáhnout kombinací následujícího:",
         "answers": [
             {
                 "text": "Cheapest product, celková integrace zákazníka, proprietární standard",
@@ -727,7 +727,7 @@
         ]
     },
     {
-        "text": "36) Porterova analýza pěti sil se využívá k:",
+        "text": "Porterova analýza pěti sil se využívá k:",
         "answers": [
             {
                 "text": "Identifikaci hnacích sil konkurenční výhody společnosti",
@@ -748,7 +748,7 @@
         ]
     },
     {
-        "text": "37) Společnost Nestle by v rámci klasifikace jednotlivých skupin stakeholderů ráda zařadila skupinu zákazníků kupujících jejich populární cereálie Nesquik. Dokteré skupiny by je pravděpodobně zařadila?",
+        "text": "Společnost Nestle by v rámci klasifikace jednotlivých skupin stakeholderů ráda zařadila skupinu zákazníků kupujících jejich populární cereálie Nesquik. Dokteré skupiny by je pravděpodobně zařadila?",
         "answers": [
             {
                 "text": "B – udržuj informované",
@@ -769,7 +769,7 @@
         ]
     },
     {
-        "text": "38) Pro snížení konkurenčního pnutí v odvětví je typický výhodné:",
+        "text": "Pro snížení konkurenčního pnutí v odvětví je typický výhodné:",
         "answers": [
             {
                 "text": "menší počet konkurentů, vysoká diferenciace produktů, vyšší míra růstu trhu",
@@ -790,7 +790,7 @@
         ]
     },
     {
-        "text": "39) Úkolem stratéga je vytvořit hodnotu. Jak můžeme z tohoto pohledu stratég ohodnotit potenciální příležitost k růstu?",
+        "text": "Úkolem stratéga je vytvořit hodnotu. Jak můžeme z tohoto pohledu stratég ohodnotit potenciální příležitost k růstu?",
         "answers": [
             {
                 "text": "Stratég může společnosti pomoci identifikovat příležitosti",
@@ -799,7 +799,7 @@
         ]
     },
     {
-        "text": "40) Proč stratégové analyzují životní cyklus odvětví",
+        "text": "Proč stratégové analyzují životní cyklus odvětví",
         "answers": [
             {
                 "text": "Aby porozuměli a učili se ze vzorců vývoje typických pro jednotlivé fáze životního cyklu",
@@ -808,7 +808,7 @@
         ]
     },
     {
-        "text": "41) Co z následujícího není dobrým příkladem faktoru SWOT analýzy",
+        "text": "Co z následujícího není dobrým příkladem faktoru SWOT analýzy",
         "answers": [
             {
                 "text": "Můžeme vstoupit na další dva zahraniční trhy, abychom zvýšili naše tržby",
@@ -817,7 +817,7 @@
         ]
     },
     {
-        "text": "42) Společnost IKEA v rámci Porterových generických strategií uplatňuje?",
+        "text": "Společnost IKEA v rámci Porterových generických strategií uplatňuje?",
         "answers": [
             {
                 "text": "strategie cenového lídra se zaměřením na úzký zákaznický segment",
@@ -826,7 +826,7 @@
         ]
     },
     {
-        "text": "45) Porterova analýza 5sil se využívá k",
+        "text": "Porterova analýza 5sil se využívá k",
         "answers": [
             {
                 "text": "Hodnocení intensity konkurence v odvětví a tedy jeho atraktivity z pohledu ziskovosti",
@@ -835,7 +835,7 @@
         ]
     },
     {
-        "text": "46) Společnost Ferrero prodává oblíbenou nutellu, do které skupiny by zařadila svoje zákazníky?",
+        "text": "Společnost Ferrero prodává oblíbenou nutellu, do které skupiny by zařadila svoje zákazníky?",
         "answers": [
             {
                 "text": "udržuj informované",
@@ -844,7 +844,7 @@
         ]
     },
     {
-        "text": "47) Společnost Ferrero a palmový olej v jejích výrobcích patří do jakého distribučního konfliktu",
+        "text": "Společnost Ferrero a palmový olej v jejích výrobcích patří do jakého distribučního konfliktu",
         "answers": [
             {
                 "text": "negativní externality",
@@ -853,7 +853,7 @@
         ]
     },
     {
-        "text": "48) ROS",
+        "text": "ROS",
         "answers": [
             {
                 "text": "EAT/celkové tržby",
@@ -862,7 +862,7 @@
         ]
     },
     {
-        "text": "49) Vztah mezi scénáři v matici",
+        "text": "Vztah mezi scénáři v matici",
         "answers": [
             {
                 "text": "scénáře v jednotlivých kvadrantech vy se měli vzájemně vylučovat",
@@ -871,7 +871,7 @@
         ]
     },
     {
-        "text": "50) VW a podvádění s deklarací CO2 je příklad distribučního konfliktu",
+        "text": "VW a podvádění s deklarací CO2 je příklad distribučního konfliktu",
         "answers": [
             {
                 "text": "asymetrie informací",
@@ -880,7 +880,7 @@
         ]
     },
     {
-        "text": "51) Špatně provedená segmentace může být díky",
+        "text": "Špatně provedená segmentace může být díky",
         "answers": [
             {
                 "text": "segmentu vnitřně heterogenní",
@@ -889,7 +889,7 @@
         ]
     },
     {
-        "text": "52) CCQ je špatně formulovaná z tohoto důvodu  Proč jsme nedávno byli svědky odlivu našich VIP klientů",
+        "text": "CCQ je špatně formulovaná z tohoto důvodu  Proč jsme nedávno byli svědky odlivu našich VIP klientů",
         "answers": [
             {
                 "text": "otázka nesměřuje do budoucnosti",
@@ -898,7 +898,7 @@
         ]
     },
     {
-        "text": "53) ROE",
+        "text": "ROE",
         "answers": [
             {
                 "text": "čistý zisk/vlastní kapitál",
@@ -907,7 +907,7 @@
         ]
     },
     {
-        "text": "54) V portfóliové matici BCG byste relativní podíl produktu firmy XY na trhu ČR počítali jako",
+        "text": "V portfóliové matici BCG byste relativní podíl produktu firmy XY na trhu ČR počítali jako",
         "answers": [
             {
                 "text": "tržby produktu / celkové tržby všech konkurentů",
