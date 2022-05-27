@@ -1,5 +1,5 @@
 import React from 'react';
-import Tester, { Question } from './Tester';
+import Tester, { Question } from './components/Tester';
 import questions from "./questions.json";
 
 function App() {
