@@ -3187,15 +3187,16 @@
     },
     {
         "text": "212. Sezónní složka se vyskytuje pouze ve čtvrtletních ekonomických čas. řadách a nikoli v měsíčních ekonomických čas. řadách",
-        "answers": []
-    },
-    {
-        "text": "Ano",
-        "answers": []
-    },
-    {
-        "text": "Ne",
-        "answers": []
+        "answers": [
+            {
+                "text": "Ano",
+                "correct": false
+            },
+            {
+                "text": "Ne",
+                "correct": false
+            }
+        ]
     },
     {
         "text": "213. Metoda nejmenších čtverců je použitelná k pořízení bodového odhadu parametrů regresní funkce nelineární v parametrech",

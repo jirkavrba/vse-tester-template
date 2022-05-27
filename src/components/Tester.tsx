@@ -1,4 +1,5 @@
 import { useState, FC, useEffect } from "react";
+import QuestionsOverview from "./QuestionsOverview";
 
 export interface Question {
     text: string,
@@ -8,15 +9,15 @@ export interface Question {
     }>
 }
 
-enum QuestionState {
+export interface DisplayQuestion extends Question {
+    position: number,
+    state: QuestionState,
+}
+
+export enum QuestionState {
     Unanswered,
     Correct,
     Incorrect
-}
-
-interface DisplayQuestion extends Question {
-    position: number,
-    state: QuestionState,
 }
 
 interface TesterProps {
@@ -44,6 +45,7 @@ const Tester: FC<TesterProps> = ({title, questions: source}: TesterProps) => {
             <h2>Tester obsahuje {questions.length} otázek</h2>
 
             {question && question.text}
+            <QuestionsOverview questions={questions}/>
         </>
     )
 }
