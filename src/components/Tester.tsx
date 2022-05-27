@@ -34,11 +34,14 @@ const Tester: FC<TesterProps> = ({title, questions: source}: TesterProps) => {
     const [positions, setPositions] = useState<Array<number>>([]);
     const [index, setIndex] = useState<number>(Math.floor(Math.random() * source.length));
 
-    // Assign each questions a position and an answer state
     useEffect(() => {
+        // Assign each questions a position and an answer state
         setQuestions(source.map((q, i) => ({...q, state: QuestionState.Unanswered, position: i})));
         setPositions(new Array(source.length).fill(0).map((_, i) => i).sort((a, b) => 0.5 - Math.random()));
-    }, [])
+
+        // Update page title
+        document.title = title;
+    }, [source, title])
 
     const question = questions[positions[index]];
     const selected = (correct: boolean) => {
@@ -52,26 +55,26 @@ const Tester: FC<TesterProps> = ({title, questions: source}: TesterProps) => {
             copy.splice(positions[index], 1, updated);
 
             return copy;
-        })
-    }
+        });
+    };
 
     const selectQuestion = (position: number) => {
         const index = positions.indexOf(position);
 
         setRevealed(false);
         setIndex(index);
-    }
+    };
 
     const nextQuestion = () => {
         setIndex(index => (index + 1) % questions.length);
         setRevealed(false);
-    }
+    };
 
     return (
         <div className="flex flex-col items-center justify-between py-10 min-h-screen">
             <div className="flex flex-col items-center">
-                <h1 className="text-4xl font-black text-gray-600">{title}</h1>
-                <h2 className="text-sm mt-5 uppercase tracking-widest font-bold text-gray-400">Tester obsahuje {questions.length} otázek</h2>
+                <h1 className="text-1xl font-black text-gray-600">{title}</h1>
+                <h2 className="text-xs mt-5 uppercase tracking-widest font-bold text-gray-400">Tester obsahuje {questions.length} otázek</h2>
             </div>
 
             <div className="flex-grow my-10 text-center">
