@@ -40,13 +40,18 @@ const Tester: FC<TesterProps> = ({title, questions: source}: TesterProps) => {
     const question = questions[index];
 
     return (
-        <>
-            <h1>{title}</h1>
-            <h2>Tester obsahuje {questions.length} otázek</h2>
+        <div className="flex flex-col items-center justify-between py-10 min-h-screen">
+            <div className="flex flex-col items-center">
+                <h1 className="text-4xl font-black text-gray-600">{title}</h1>
+                <h2 className="text-sm mt-5 uppercase tracking-widest font-bold text-gray-400">Tester obsahuje {questions.length} otázek</h2>
+            </div>
 
-            {question && question.text}
+            <div className="flex-grow my-10">
+                {question && question.text}
+            </div>
+
             <QuestionsOverview questions={questions}/>
-        </>
+        </div>
     )
 }
 

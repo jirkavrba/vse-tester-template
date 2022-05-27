@@ -1113,7 +1113,7 @@
         ]
     },
     {
-        "text": "75. 11) Na základě náhodného výběru máme rozhodnout, zda podíl kuřáků v populaci přesahuje určité procento. Je-li jich ve vzorku o rozsahu 1000 zjištěno 300, potřebujeme znát:",
+        "text": "75. Na základě náhodného výběru máme rozhodnout, zda podíl kuřáků v populaci přesahuje určité procento. Je-li jich ve vzorku o rozsahu 1000 zjištěno 300, potřebujeme znát:",
         "answers": [
             {
                 "text": "rozsah populace",
@@ -1128,10 +1128,6 @@
                 "correct": false
             }
         ]
-    },
-    {
-        "text": "Analýza závislosti",
-        "answers": []
     },
     {
         "text": "76. Obsahem nul. hypotézy u kor. analýzy je:",
