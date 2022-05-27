@@ -459,10 +459,6 @@
         ]
     },
     {
-        "text": "Pravděpodobnost",
-        "answers": []
-    },
-    {
         "text": "32. Distribuční funkci spojité náhodné veličiny lze získat integrací hustoty pravděpodobnosti této veličiny.",
         "answers": [
             {
@@ -763,10 +759,6 @@
         ]
     },
     {
-        "text": "Matematická statistika",
-        "answers": []
-    },
-    {
         "text": "52. Testujeme hypotézu na 1% hl. významnosti. Byla určena minimální hladina významnosti. Ve kterém případě nul. hypotézu zamítáme?",
         "answers": [
             {
@@ -829,18 +821,6 @@
                 "correct": false
             }
         ]
-    },
-    {
-        "text": "56. Závěr, který učiníme o testu na základě p-hodnoty, je stejný, jako pomocí porovnání hodnoty test. kritéria a kritické hodnoty.",
-        "answers": []
-    },
-    {
-        "text": "Ano",
-        "answers": []
-    },
-    {
-        "text": "Ne",
-        "answers": []
     },
     {
         "text": "57. Zvětšením spolehlivosti se při stejném rozsahu výběru přesnost intervalového odhadu střední hodnoty normálního rozdělení:",
@@ -1825,10 +1805,6 @@
         ]
     },
     {
-        "text": "Časové řady",
-        "answers": []
-    },
-    {
         "text": "123. Klouzavé průměry umožňují vyhladit průběh časové řady a naznačit její trend",
         "answers": [
             {
@@ -2232,10 +2208,6 @@
         ]
     },
     {
-        "text": "Indexní analýza",
-        "answers": []
-    },
-    {
         "text": "150. Soubor produktů a indexů spotřebitelských cen se nazývá spotřební koš",
         "answers": [
             {
@@ -2610,10 +2582,6 @@
                 "correct": false
             }
         ]
-    },
-    {
-        "text": "Jiné otázky navíc",
-        "answers": []
     },
     {
         "text": "174. Hodnota směrnice v lineárním regresním modelu vyjadřuje:",

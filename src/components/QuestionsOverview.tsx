@@ -2,14 +2,16 @@ import { FC, useMemo } from "react";
 import { DisplayQuestion, QuestionState } from "./Tester";
 
 interface QuestionsOverviewProps {
-    questions: Array<DisplayQuestion>
+    questions: Array<DisplayQuestion>,
+    current: number,
+    onSelect: (position: number) => void
 }
 
-const QuestionsOverview: FC<QuestionsOverviewProps> = ({questions}: QuestionsOverviewProps) => {
+const QuestionsOverview: FC<QuestionsOverviewProps> = ({questions, current, onSelect}: QuestionsOverviewProps) => {
     const sorted = useMemo(() => questions.sort((a, b) => a.position - b.position), [questions]);
 
     const correct = questions.filter(q => q.state == QuestionState.Correct).length;
-    const incorrect = questions.filter(q => q.state == QuestionState.Correct).length;
+    const incorrect = questions.filter(q => q.state == QuestionState.Incorrect).length;
     const percentage = Math.floor(correct / Math.max(incorrect + correct, 1) * 100 * 10) / 10;
 
     return (
@@ -23,7 +25,7 @@ const QuestionsOverview: FC<QuestionsOverviewProps> = ({questions}: QuestionsOve
             </div>
             <div className="flex flex-row content-center justify-center flex-wrap w-1/2">
                 {sorted.map(question => (
-                    <QuestionSquare key={question.position} question={question} />
+                    <QuestionSquare key={question.position} onClick={() => onSelect(question.position)} question={question} highlight={question.position === current}/>
                 ))} 
             </div>
         </div>
@@ -31,10 +33,12 @@ const QuestionsOverview: FC<QuestionsOverviewProps> = ({questions}: QuestionsOve
 }
 
 interface QuestionSquareProps {
-    question: DisplayQuestion
+    question: DisplayQuestion,
+    highlight: boolean,
+    onClick: () => void
 }
 
-const QuestionSquare: FC<QuestionSquareProps> = ({question}: QuestionSquareProps) => {
+const QuestionSquare: FC<QuestionSquareProps> = ({question, highlight, onClick}: QuestionSquareProps) => {
     const classes = {
         [QuestionState.Unanswered]: "bg-gray-200",
         [QuestionState.Correct]: "bg-green-500",
@@ -42,8 +46,8 @@ const QuestionSquare: FC<QuestionSquareProps> = ({question}: QuestionSquareProps
     }
 
     return (
-        <div className={`w-3 h-3 border border-white rounded ${classes[question.state]}`}> 
-        </div>
+        <button onClick={onClick} className={`w-4 h-4 border-2 m-1 ${highlight && question.state == QuestionState.Unanswered ? 'border-gray-400 !bg-white' : 'border-white'} rounded ${classes[question.state]}`}> 
+        </button>
     );
 }
 
