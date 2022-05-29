@@ -1,3 +1,4 @@
+import hash from "object-hash";
 import { useState, FC, useEffect } from "react";
 import QuestionComponent from "./Question";
 import QuestionsOverview from "./QuestionsOverview";
@@ -34,14 +35,16 @@ const Tester: FC<TesterProps> = ({title, questions: source}: TesterProps) => {
     const [positions, setPositions] = useState<Array<number>>([]);
     const [index, setIndex] = useState<number>(Math.floor(Math.random() * source.length));
 
+    const key = `questions_${hash(title)}`
+
     const persistQuestions = (questions: Array<DisplayQuestion>) => {
-        window.localStorage.setItem("questions", JSON.stringify(questions))
+        window.localStorage.setItem(key, JSON.stringify(questions))
         setQuestions(questions);
     };
 
     useEffect(() => {
         // Assign each questions a position and an answer state (and store this in localstorage preferably)
-        const stored = window.localStorage.getItem("questions");
+        const stored = window.localStorage.getItem(key);
         const questions = stored !== null 
             ? JSON.parse(stored)
             : source.map((q, i) => ({...q, state: QuestionState.Unanswered, position: i}))

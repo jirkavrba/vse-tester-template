@@ -8,8 +8,10 @@
     "@testing-library/user-event": "^13.2.1",
     "@types/jest": "^27.0.1",
     "@types/node": "^16.7.13",
+    "@types/object-hash": "^2.2.1",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "object-hash": "^3.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
@@ -45,5 +47,5 @@
     "postcss": "^8.4.14",
     "tailwindcss": "^3.0.24"
   },
-  "homepage": "https://vrba.dev/vse/3sg201/tester"
+  "homepage": "https://vrba.dev/vse/4st204/tester"
 }
