@@ -54,7 +54,7 @@ const Tester: FC<TesterProps> = ({title, questions: source}: TesterProps) => {
 
         // Update page title
         document.title = title;
-    }, [source, title])
+    }, [source, title, key])
 
     const question = questions[positions[index]];
     const selected = (correct: boolean) => {
