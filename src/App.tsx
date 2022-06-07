@@ -1,9 +1,9 @@
 import Tester from './components/Tester';
-import questions from "./sets/3sg201-strategicka-analyza.json";
+import questions from "./sets/4sa310-it-governance.json";
 
 function App() {
   return (
-    <Tester title="3SG201 - Strategická analýza" questions={questions}/>
+    <Tester title="4SA310 - IT Governance" questions={questions}/>
   );
 }
 

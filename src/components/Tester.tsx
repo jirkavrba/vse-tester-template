@@ -59,7 +59,7 @@ const Tester: FC<TesterProps> = ({title, questions: source}: TesterProps) => {
     const question = questions[positions[index]];
     const selected = (correct: boolean) => {
         const state = correct ? QuestionState.Correct : QuestionState.Incorrect;
-
+        
         setRevealed(true);
         setQuestions(current => {
             const copy = [...current];
