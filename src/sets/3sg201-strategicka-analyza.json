@@ -1461,11 +1461,11 @@
             },
             {
                 "text": "Hrozbu substitutů",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Budoucí cíle organizace",
-                "correct": true
+                "correct": false
             }
         ]
     },
@@ -1503,11 +1503,11 @@
             },
             {
                 "text": "akcionáři",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "místní samospráva",
-                "correct": true
+                "correct": false
             }
         ]
     },
@@ -1650,11 +1650,11 @@
             },
             {
                 "text": "Regulace zahraničního obchodu",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Měnový kurz",
-                "correct": true
+                "correct": false
             }
         ]
     },
@@ -1663,11 +1663,11 @@
         "answers": [
             {
                 "text": "Vytvářet hodnotu pro stakeholdery",
-                "correct": true
+                "correct": false
             },
             {
                 "text": "Vytvářet zisk",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Zajistit růst svých tržeb",
